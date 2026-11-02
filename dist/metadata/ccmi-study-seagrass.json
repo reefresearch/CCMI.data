@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "ccmi-study-seagrass",
+  "name": "Caribbean seagrass thermal performance",
+  "description": "Gross primary productivity, respiration, photosynthesis measurements, model parameters and R Markdown analyses for Caribbean seagrass thermal-performance experiments.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-seagrass.html",
+  "sameAs": "https://github.com/HaleyAddison/Seagrass-Thermal-Performance",
+  "citation": "https://doi.org/10.1016/j.ecss.2026.109762",
+  "version": "cb2e55d804fc9876017698cb6486cd79da7e359a",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "All_GPP_and_Respiration.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://raw.githubusercontent.com/HaleyAddison/Seagrass-Thermal-Performance/cb2e55d804fc9876017698cb6486cd79da7e359a/All_GPP_and_Respiration.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "All_params.xlsx",
+      "encodingFormat": "XLSX",
+      "contentUrl": "https://raw.githubusercontent.com/HaleyAddison/Seagrass-Thermal-Performance/cb2e55d804fc9876017698cb6486cd79da7e359a/All_params.xlsx"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "CIMP data.Rmd",
+      "encodingFormat": "RMD",
+      "contentUrl": "https://raw.githubusercontent.com/HaleyAddison/Seagrass-Thermal-Performance/cb2e55d804fc9876017698cb6486cd79da7e359a/CIMP%20data.Rmd"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Final_SeagrassThermalTolerance.Rmd",
+      "encodingFormat": "RMD",
+      "contentUrl": "https://raw.githubusercontent.com/HaleyAddison/Seagrass-Thermal-Performance/cb2e55d804fc9876017698cb6486cd79da7e359a/Final_SeagrassThermalTolerance.Rmd"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Photo.R_full.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://raw.githubusercontent.com/HaleyAddison/Seagrass-Thermal-Performance/cb2e55d804fc9876017698cb6486cd79da7e359a/Photo.R_full.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "SST_Nursery_2023.Rmd",
+      "encodingFormat": "RMD",
+      "contentUrl": "https://raw.githubusercontent.com/HaleyAddison/Seagrass-Thermal-Performance/cb2e55d804fc9876017698cb6486cd79da7e359a/SST_Nursery_2023.Rmd"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "photo.blnk.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://raw.githubusercontent.com/HaleyAddison/Seagrass-Thermal-Performance/cb2e55d804fc9876017698cb6486cd79da7e359a/photo.blnk.csv"
+    }
+  ],
+  "keywords": [
+    "Physiology & performance"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "physiology-performance",
+      "name": "Physiology & performance",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

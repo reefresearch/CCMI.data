@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "10.5281/zenodo.14889221",
+  "name": "Mesophotic thermal refuge during the 2023 bleaching event",
+  "description": "Coral bleaching surveys along a 10–50 m depth gradient, temperature measurements and analysis code. The repository describes surveys on 16 September 2023 in Bloody Bay Marine Park.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-mesophotic-refuge.html",
+  "sameAs": "https://zenodo.org/records/14889221",
+  "citation": "https://doi.org/10.1038/s41598-025-01813-6",
+  "version": "record 14889221",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "bleaching_gradient_raw.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14889221/files/bleaching_gradient_raw.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "bleaching_gradient_raw.xlsx",
+      "encodingFormat": "XLSX",
+      "contentUrl": "https://zenodo.org/records/14889221/files/bleaching_gradient_raw.xlsx?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Dive Temps Short.xlsx",
+      "encodingFormat": "XLSX",
+      "contentUrl": "https://zenodo.org/records/14889221/files/Dive%20Temps%20Short.xlsx?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "MCE-bleaching-code-Zenodo.docx",
+      "encodingFormat": "DOCX",
+      "contentUrl": "https://zenodo.org/records/14889221/files/MCE-bleaching-code-Zenodo.docx?download=1"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "keywords": [
+    "Environmental conditions",
+    "Coral health & restoration"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "environmental-conditions",
+      "name": "Environmental conditions",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "coral-health-restoration",
+      "name": "Coral health & restoration",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

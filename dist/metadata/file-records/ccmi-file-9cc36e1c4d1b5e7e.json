@@ -1,0 +1,822 @@
+{
+  "id": "ccmi-file-9cc36e1c4d1b5e7e",
+  "parent_id": "ccmi-reference-lc-moorings-2023",
+  "title": "LITTLE-CAYMAN-PUBLIC-MOORINGS-2023.xlsx",
+  "name": "LITTLE-CAYMAN-PUBLIC-MOORINGS-2023.xlsx",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/files/LITTLE-CAYMAN-PUBLIC-MOORINGS-2023.xlsx",
+  "repository_url": "https://doe.ky/resources/public-moorings/",
+  "provider": "Cayman Islands DoE",
+  "version": "2023-01",
+  "kind": "data",
+  "category": "environmental",
+  "format": "XLSX",
+  "size_bytes": 13745,
+  "checksum": "c531f4f0c7bf04a9785f4f282f7598f10a62da5d3806741a816865571ac942e4",
+  "checksum_type": "sha256",
+  "source_license": null,
+  "paper_doi": null,
+  "dataset_doi": null,
+  "concept_doi": null,
+  "doi_scope": "No DOI assigned; cite the DoE January 2023 inventory.",
+  "landing": "/?file=ccmi-file-9cc36e1c4d1b5e7e",
+  "metadata": "file-records/ccmi-file-9cc36e1c4d1b5e7e.meta.md",
+  "metadata_json": "file-records/ccmi-file-9cc36e1c4d1b5e7e.json",
+  "metadata_checked": "2026-10-30",
+  "link_status": "Original file retained; coordinates cross-checked against source degree-minute strings.",
+  "external": false,
+  "location": "Little Cayman, Cayman Islands",
+  "map_points": [
+    {
+      "id": 236,
+      "name": "Ron's Rock",
+      "coordinates": [
+        19.66295,
+        -80.111817
+      ],
+      "depth": "40.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 237,
+      "name": "Martha's Finyard",
+      "coordinates": [
+        19.664867,
+        -80.111183
+      ],
+      "depth": "45.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 238,
+      "name": "Sand Castle",
+      "coordinates": [
+        19.6685,
+        -80.107817
+      ],
+      "depth": "55.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 239,
+      "name": "Bush Gardens",
+      "coordinates": [
+        19.6663,
+        -80.106817
+      ],
+      "depth": "25.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 240,
+      "name": "Fisheye Fantasy",
+      "coordinates": [
+        19.670033,
+        -80.106083
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 241,
+      "name": "Jigsaw Puzzle",
+      "coordinates": [
+        19.671483,
+        -80.103383
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 242,
+      "name": "Paradise Plunge",
+      "coordinates": [
+        19.672467,
+        -80.103383
+      ],
+      "depth": "48.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 243,
+      "name": "Tibbett's Top",
+      "coordinates": [
+        19.67375,
+        -80.100783
+      ],
+      "depth": "25.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 244,
+      "name": "McCoy's Wall",
+      "coordinates": [
+        19.67655,
+        -80.0983
+      ],
+      "depth": "55.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 245,
+      "name": "Dot's Hot Spot",
+      "coordinates": [
+        19.677133,
+        -80.095483
+      ],
+      "depth": "21.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 246,
+      "name": "Joy's Joy",
+      "coordinates": [
+        19.678767,
+        -80.092983
+      ],
+      "depth": "25.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 247,
+      "name": "Baracuda Bight",
+      "coordinates": [
+        19.679767,
+        -80.0915
+      ],
+      "depth": "30.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 248,
+      "name": "Coconut Wall",
+      "coordinates": [
+        19.680767,
+        -80.089833
+      ],
+      "depth": "35.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 249,
+      "name": "Lea Lea's Lookout",
+      "coordinates": [
+        19.681367,
+        -80.0886
+      ],
+      "depth": "40.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 250,
+      "name": "Shear Wall",
+      "coordinates": [
+        19.681933,
+        -80.086483
+      ],
+      "depth": "25.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 251,
+      "name": "Great Wall West",
+      "coordinates": [
+        19.682333,
+        -80.085467
+      ],
+      "depth": "20.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 252,
+      "name": "Great Wall East",
+      "coordinates": [
+        19.682983,
+        -80.08415
+      ],
+      "depth": "25.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 253,
+      "name": "Randy's Gazebo",
+      "coordinates": [
+        19.683783,
+        -80.082967
+      ],
+      "depth": "30.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 254,
+      "name": "Donna's Delight",
+      "coordinates": [
+        19.6844,
+        -80.0806
+      ],
+      "depth": "30.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 255,
+      "name": "Marylin's Cut",
+      "coordinates": [
+        19.684733,
+        -80.079067
+      ],
+      "depth": "35.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 256,
+      "name": "Three Fathom Wall",
+      "coordinates": [
+        19.684917,
+        -80.078
+      ],
+      "depth": "25.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 257,
+      "name": "Sailfin Miniwall",
+      "coordinates": [
+        19.685267,
+        -80.075667
+      ],
+      "depth": "20.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 258,
+      "name": "Blacktip Blvd.",
+      "coordinates": [
+        19.686317,
+        -80.074917
+      ],
+      "depth": "60.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 259,
+      "name": "Sarah's Set",
+      "coordinates": [
+        19.687367,
+        -80.072567
+      ],
+      "depth": "25.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 260,
+      "name": "Bus Stop",
+      "coordinates": [
+        19.68885,
+        -80.070817
+      ],
+      "depth": "35.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 261,
+      "name": "Cumber's Caves",
+      "coordinates": [
+        19.68955,
+        -80.06995
+      ],
+      "depth": "20.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 262,
+      "name": "Paul's Anchor",
+      "coordinates": [
+        19.694433,
+        -80.069433
+      ],
+      "depth": "40.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 263,
+      "name": "Jackson Reef & Wall",
+      "coordinates": [
+        19.690733,
+        -80.069417
+      ],
+      "depth": "20.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 264,
+      "name": "Eagleray Roundup",
+      "coordinates": [
+        19.6912,
+        -80.069267
+      ],
+      "depth": "20.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 265,
+      "name": "Magic Roundabout",
+      "coordinates": [
+        19.693583,
+        -80.0692
+      ],
+      "depth": "40.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 266,
+      "name": "Mike's Mountain",
+      "coordinates": [
+        19.6928,
+        -80.069067
+      ],
+      "depth": "25.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 267,
+      "name": "Cascades",
+      "coordinates": [
+        19.6964,
+        -80.06865
+      ],
+      "depth": "55.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 268,
+      "name": "The Meadows",
+      "coordinates": [
+        19.692567,
+        -80.068533
+      ],
+      "depth": "25.0 ft",
+      "pins": 2,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 269,
+      "name": "Rock Bottom Wall",
+      "coordinates": [
+        19.702417,
+        -80.056867
+      ],
+      "depth": "64.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 270,
+      "name": "Snap Shot",
+      "coordinates": [
+        19.700883,
+        -80.056833
+      ],
+      "depth": "35.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 271,
+      "name": "Crystal Palace Wall",
+      "coordinates": [
+        19.702833,
+        -80.05085
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 272,
+      "name": "The Bluff",
+      "coordinates": [
+        19.704483,
+        -80.03965
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 273,
+      "name": "Booby Pass",
+      "coordinates": [
+        19.708033,
+        -80.013383
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 274,
+      "name": "Sailfin Reef",
+      "coordinates": [
+        19.706833,
+        -80.0122
+      ],
+      "depth": "36.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 275,
+      "name": "Penguin's Leap",
+      "coordinates": [
+        19.7096,
+        -80.0079
+      ],
+      "depth": "55.0 ft",
+      "pins": 1,
+      "aspect": "North",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 276,
+      "name": "Coral City",
+      "coordinates": [
+        19.68075,
+        -80.0233
+      ],
+      "depth": "35.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 277,
+      "name": "Disneyland",
+      "coordinates": [
+        19.679033,
+        -80.023383
+      ],
+      "depth": "66.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 278,
+      "name": "Splitsville",
+      "coordinates": [
+        19.674683,
+        -80.034433
+      ],
+      "depth": "40.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 279,
+      "name": "Rockhouse Wall",
+      "coordinates": [
+        19.667367,
+        -80.042167
+      ],
+      "depth": "75.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 280,
+      "name": "Luca's Ledges",
+      "coordinates": [
+        19.668833,
+        -80.042433
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 281,
+      "name": "Lappy's Leap",
+      "coordinates": [
+        19.658417,
+        -80.061933
+      ],
+      "depth": "60.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 282,
+      "name": "Pete's Plunge",
+      "coordinates": [
+        19.65615,
+        -80.067783
+      ],
+      "depth": "60.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Open Zone"
+    },
+    {
+      "id": 283,
+      "name": "The Edge",
+      "coordinates": [
+        19.653,
+        -80.080883
+      ],
+      "depth": "55.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Line Fishing Zone"
+    },
+    {
+      "id": 284,
+      "name": "Soto Trader",
+      "coordinates": [
+        19.655383,
+        -80.08245
+      ],
+      "depth": "35.0 ft",
+      "pins": 2,
+      "aspect": "South",
+      "mpa": "Line Fishing Zone"
+    },
+    {
+      "id": 285,
+      "name": "Harold's Hole",
+      "coordinates": [
+        19.653883,
+        -80.0825
+      ],
+      "depth": "55.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Line Fishing Zone"
+    },
+    {
+      "id": 286,
+      "name": "Diver's Delight",
+      "coordinates": [
+        19.654367,
+        -80.0838
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Line Fishing Zone"
+    },
+    {
+      "id": 287,
+      "name": "Thompson's Reef",
+      "coordinates": [
+        19.655233,
+        -80.084367
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Line Fishing Zone"
+    },
+    {
+      "id": 288,
+      "name": "Wahoo Reef",
+      "coordinates": [
+        19.656883,
+        -80.088467
+      ],
+      "depth": "37.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 289,
+      "name": "Grundy's Gardens",
+      "coordinates": [
+        19.657333,
+        -80.08955
+      ],
+      "depth": "30.0 ft",
+      "pins": 2,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 290,
+      "name": "Uncle Lucky's",
+      "coordinates": [
+        19.656033,
+        -80.0898
+      ],
+      "depth": "50.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 291,
+      "name": "Windsock Reef",
+      "coordinates": [
+        19.6573,
+        -80.0919
+      ],
+      "depth": "30.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 292,
+      "name": "Black Hole",
+      "coordinates": [
+        19.656,
+        -80.092067
+      ],
+      "depth": "50.0 ft",
+      "pins": 2,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 293,
+      "name": "Charlie's Chimney",
+      "coordinates": [
+        19.655833,
+        -80.0937
+      ],
+      "depth": "65.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 294,
+      "name": "Gay's Reef",
+      "coordinates": [
+        19.657367,
+        -80.094017
+      ],
+      "depth": "30.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 295,
+      "name": "Dynamite Drop-off",
+      "coordinates": [
+        19.65535,
+        -80.09565
+      ],
+      "depth": "30.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 296,
+      "name": "Richard's Reef",
+      "coordinates": [
+        19.6566,
+        -80.096983
+      ],
+      "depth": "40.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 297,
+      "name": "Patty's Place",
+      "coordinates": [
+        19.655067,
+        -80.09745
+      ],
+      "depth": "65.0 ft",
+      "pins": 2,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 298,
+      "name": "Pirate's Point Reef",
+      "coordinates": [
+        19.656583,
+        -80.0978
+      ],
+      "depth": "35.0 ft",
+      "pins": 2,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 299,
+      "name": "Lighthouse Wall",
+      "coordinates": [
+        19.653233,
+        -80.101383
+      ],
+      "depth": "75.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    },
+    {
+      "id": 300,
+      "name": "West Point",
+      "coordinates": [
+        19.654967,
+        -80.1036
+      ],
+      "depth": "40.0 ft",
+      "pins": 1,
+      "aspect": "South",
+      "mpa": "Marine Reserve"
+    }
+  ],
+  "coordinate_basis": "DoE public mooring list, updated January 2023. Northing/Easting columns contain decimal latitude/longitude; coordinate strings cross-checked within 0.000001 degrees. Source datum not stated; WGS84 assumed for mapping. Depth retained in feet. MPA and mooring status are the source snapshot, not current operational guidance.",
+  "subjects": [
+    "human-pressures-management"
+  ],
+  "subject_labels": [
+    "Human pressures & management"
+  ],
+  "subject_basis": "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending.",
+  "subject_vocabulary": "ccmi-subjects:1.0.0",
+  "resource_types": [
+    "data"
+  ]
+}

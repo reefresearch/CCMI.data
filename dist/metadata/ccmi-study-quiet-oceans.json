@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "ccmi-study-quiet-oceans",
+  "name": "Grand Cayman fish communities during COVID restrictions",
+  "description": "Reef-fish survey observations, passenger-vessel data, site-coordinate table and sequential R scripts for the Grand Cayman human-confinement study.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-quiet-oceans.html",
+  "sameAs": "https://github.com/JackVJohnson/Quiet-Oceans-Grand-Cayman",
+  "citation": "https://doi.org/10.1038/s41598-023-49221-y",
+  "version": "5c5786281289f2fe5829f98531f80d3a45a800ed",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "1.Map_and_Passenger_vessel_bayesian_model.R",
+      "encodingFormat": "R",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/1.Map_and_Passenger_vessel_bayesian_model.R"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "2.boxplots_and_other_figs.R",
+      "encodingFormat": "R",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/2.boxplots_and_other_figs.R"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "3.Parrotfish_Bayes_regression.R",
+      "encodingFormat": "R",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/3.Parrotfish_Bayes_regression.R"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "4.before_during_after_comparison.R",
+      "encodingFormat": "R",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/4.before_during_after_comparison.R"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "5.ordinations_before_during_after.R",
+      "encodingFormat": "R",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/5.ordinations_before_during_after.R"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "6.manyabund_heatmap.R",
+      "encodingFormat": "R",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/6.manyabund_heatmap.R"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "7.BRMs_outputs_supp.R",
+      "encodingFormat": "R",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/7.BRMs_outputs_supp.R"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Data files/ccmi_quiet_ocean_survey.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/Data%20files/ccmi_quiet_ocean_survey.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Data files/cruise_ship_data.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/Data%20files/cruise_ship_data.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Data files/site_coords.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/Data%20files/site_coords.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "README.md",
+      "encodingFormat": "MD",
+      "contentUrl": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/README.md"
+    }
+  ],
+  "keywords": [
+    "Biodiversity & communities",
+    "Human pressures & management"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "biodiversity-communities",
+      "name": "Biodiversity & communities",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "human-pressures-management",
+      "name": "Human pressures & management",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

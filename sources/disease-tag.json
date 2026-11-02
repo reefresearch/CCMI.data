@@ -1,0 +1,39 @@
+{
+  "repo": "anyabrown/SchulDiseaseAcervicornis",
+  "tag": "Schul2023",
+  "commit": "fc9035ce5f30c2639faf6f0f86a6574eff4d06cc",
+  "files": [
+    {
+      "path": "February2021_R_script_AB.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e52c3545fb9a6d54ab17a07345e09ec88798d8aa",
+      "size": 36617,
+      "url": "https://api.github.com/repos/anyabrown/SchulDiseaseAcervicornis/git/blobs/e52c3545fb9a6d54ab17a07345e09ec88798d8aa"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "812bc30fbcfa996f47a983c54bf987f05b06bfb8",
+      "size": 98,
+      "url": "https://api.github.com/repos/anyabrown/SchulDiseaseAcervicornis/git/blobs/812bc30fbcfa996f47a983c54bf987f05b06bfb8"
+    },
+    {
+      "path": "Schul2022_WBD_Rcode_Apr2022.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25af6a2fd4ca07143ae7b3c03b1465b7d668e884",
+      "size": 55957,
+      "url": "https://api.github.com/repos/anyabrown/SchulDiseaseAcervicornis/git/blobs/25af6a2fd4ca07143ae7b3c03b1465b7d668e884"
+    },
+    {
+      "path": "Schul_etal_PeerJ.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e17a1ca92f7cde7cbdf07d97a96022447b0d91b9",
+      "size": 50403,
+      "url": "https://api.github.com/repos/anyabrown/SchulDiseaseAcervicornis/git/blobs/e17a1ca92f7cde7cbdf07d97a96022447b0d91b9"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "17794522": [
+    ["resembid.fire.csv", "e1862774024a6973475196cd35fa083f"],
+    ["resembid.growth.csv", "b36848ef7827b3cd7a702f04de86fc43"],
+    ["resembid.tle.master.csv", "78629b9124ca97c42b906799952b3487"],
+    ["resembid.zoox.density.master.csv", "a216eba68e01c4fcacfd32527f97feef"],
+    ["resembid_coral.pdf", "3a819dd094c845e51e1e50a6af8f73fb"],
+    ["resembid_coral.rmd", "355978e2fe7e4ff1f69d25f6759f5f1a"]
+  ],
+  "14392687": [
+    ["dhwnoaa.csv", "54bcad8f25e3d218abf704936451e610"],
+    ["dhwnoaa1.txt", "c78ed9000a99dee5a181d49c01a7cfe7"],
+    ["dhwnoaa2.txt", "7c6cac705c75b4623dfdede7207f774d"],
+    ["Icon_10m.csv", "82664009e5926cfcdb2bd5664c9cd793"],
+    ["icon_frame.csv", "4717a8def0f0e30f06f8ef20bd8503c1"],
+    ["Icon_SST.csv", "904d382d823a9c410ec5eb39872eb065"],
+    ["nursery_health_status_2023 - ALL DATA.csv", "1dd7353c1ef61210c58230d151c5e46d"],
+    ["nursery_health_status_2023 - quality control.csv", "236017e8790e73297f2fba66b4d5def0"],
+    ["nursery_health_status_2023.csv", "9a1f79b9f0ae0fc422da05927e0d07ec"],
+    ["Nurserycode.txt", "62d01aba27f852902c57247a500c0eb3"],
+    ["temp_frame.txt", "22c92ac2862ee8e6df895ce504dd3118"],
+    ["temp_full.csv", "210a738d231c90a15293ea255b1d6120"]
+  ],
+  "14889221": [
+    ["bleaching_gradient_raw.csv", "8f2ff245a1a4f2ef24c7692c1f006238"],
+    ["bleaching_gradient_raw.xlsx", "8c4f121c567bf71f33c6f5a14201e485"],
+    ["Dive Temps Short.xlsx", "d2402f168b51280458ff4ec7bc9f4f96"],
+    ["MCE-bleaching-code-Zenodo.docx", "9729e0972558987d4ce8a323c27bf553"]
+  ],
+  "15057987": [
+    ["bleaching_prevelance.csv", "a12d38fcdea5458026b50674a69c3896"],
+    ["coral_transect.csv", "36930d1b4a9568129d5fec6cb652a8f8"],
+    ["Little_Cayman_weekly_DHW_1985_2023.csv", "389140789a5f545df6befb2ea371ffac"]
+  ],
+  "10055775": [
+    ["FIReData_Med2022_Annotated.csv", "d725f4e7144ffa905d79bef564dd54bc"],
+    ["Madracis_SEM.csv", "3f8c69f777522a9aa37b32ea830e286f"],
+    ["Med corals.pdf", "3c47d6aa9ed007d8caa28c08ca81ef33"],
+    ["Med_Madracis_R.Rmd", "8c87caf4613531db1b9200f2c22f7423"],
+    ["symbiont data heatmap.csv", "30aba4d9befdf6758a0cdde4423f63a3"],
+    ["symbiont data.csv", "066569101b1e3df08efc06a3782e6b4a"]
+  ],
+  "6518135": [
+    ["FIRe_June.csv", "6d2f793f368b9d38552ff22cd1da979e"],
+    ["LC Photo Quads Markdown.Rmd", "0541340707dbd45ec9e8d3d99b10af06"],
+    ["LC_functional_groups.csv", "dde9dfb0bb4c6d77c93b57367cb30747"],
+    ["LC_size_frequency.csv", "8dc1317cc40ca3110392feb0c637a9f0"],
+    ["LICOR_06242021.csv", "cc5d949004f341c82764784fb53641f5"]
+  ],
+  "7802849": [
+    ["anyabrown/SchulDiseaseAcervicornis-Schul2023.zip", "22a843d763a3036ca9a9598e6ef8bb80"]
+  ]
+}

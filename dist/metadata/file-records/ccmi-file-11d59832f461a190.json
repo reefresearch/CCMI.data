@@ -1,0 +1,52 @@
+{
+  "id": "ccmi-file-11d59832f461a190",
+  "parent_id": "ccmi-study-photoacclimation",
+  "name": "FIRe_June.csv",
+  "title": "FIRe_June.csv",
+  "url": "https://zenodo.org/records/6518135/files/FIRe_June.csv?download=1",
+  "repository_url": "https://zenodo.org/records/6518135",
+  "provider": "Zenodo",
+  "version": "record 6518135",
+  "kind": "data",
+  "category": "ecological",
+  "format": "CSV",
+  "size_bytes": null,
+  "checksum": "6d2f793f368b9d38552ff22cd1da979e",
+  "checksum_type": "md5",
+  "source_license": "Creative Commons Attribution 4.0 International",
+  "paper_doi": "10.1002/ecs2.4200",
+  "dataset_doi": "10.5281/zenodo.6518135",
+  "concept_doi": "10.5281/zenodo.5500388",
+  "doi_scope": "Dataset DOI belongs to the parent deposit; this file has no separately registered DOI.",
+  "landing": "/?file=ccmi-file-11d59832f461a190",
+  "metadata": "file-records/ccmi-file-11d59832f461a190.meta.md",
+  "metadata_json": "file-records/ccmi-file-11d59832f461a190.json",
+  "metadata_checked": "2026-10-29",
+  "link_status": "Listed in source inventory; full file transfer not tested.",
+  "external": true,
+  "repository_checksum_display": "6d2f793f368b9d38552ff22cd1da979e",
+  "inventory_source": "https://zenodo.org/records/6518135",
+  "checksum_note": null,
+  "parent_title": "Light and photoacclimatization across reef depths",
+  "parent_landing": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-photoacclimation.html",
+  "paper_title": "Light and photoacclimatization drive distinct differences between shallow and mesophotic coral communities",
+  "paper_relationship_status": "Linked by the paper data-availability statement or repository README.",
+  "units": null,
+  "data_dictionary": null,
+  "temporal_coverage": null,
+  "scientific_quality_control": "Not independently assessed",
+  "role_basis": "filename, extension and repository context",
+  "subjects": [
+    "biodiversity-communities",
+    "physiology-performance"
+  ],
+  "subject_labels": [
+    "Biodiversity & communities",
+    "Physiology & performance"
+  ],
+  "subject_basis": "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending.",
+  "subject_vocabulary": "ccmi-subjects:1.0.0",
+  "resource_types": [
+    "data"
+  ]
+}

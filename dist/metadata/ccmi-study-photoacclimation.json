@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "10.5281/zenodo.6518135",
+  "name": "Light and photoacclimatization across reef depths",
+  "description": "Coral photophysiology, functional-group and colony-size data, light observations and R Markdown analysis associated with shallow–mesophotic community comparisons.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-photoacclimation.html",
+  "sameAs": "https://zenodo.org/records/6518135",
+  "citation": "https://doi.org/10.1002/ecs2.4200",
+  "version": "2",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "FIRe_June.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/6518135/files/FIRe_June.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "LC Photo Quads Markdown.Rmd",
+      "encodingFormat": "RMD",
+      "contentUrl": "https://zenodo.org/records/6518135/files/LC%20Photo%20Quads%20Markdown.Rmd?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "LC_functional_groups.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/6518135/files/LC_functional_groups.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "LC_size_frequency.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/6518135/files/LC_size_frequency.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "LICOR_06242021.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/6518135/files/LICOR_06242021.csv?download=1"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "keywords": [
+    "Environmental conditions",
+    "Biodiversity & communities",
+    "Physiology & performance"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "environmental-conditions",
+      "name": "Environmental conditions",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "biodiversity-communities",
+      "name": "Biodiversity & communities",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "physiology-performance",
+      "name": "Physiology & performance",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

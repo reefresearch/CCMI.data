@@ -1,0 +1,52 @@
+{
+  "id": "ccmi-file-aa86ca4601d5794c",
+  "parent_id": "ccmi-study-whiteband",
+  "name": "Schul2022_WBD_Rcode_Apr2022.R",
+  "title": "Schul2022_WBD_Rcode_Apr2022.R",
+  "url": "https://raw.githubusercontent.com/anyabrown/SchulDiseaseAcervicornis/fc9035ce5f30c2639faf6f0f86a6574eff4d06cc/Schul2022_WBD_Rcode_Apr2022.R",
+  "repository_url": "https://github.com/anyabrown/SchulDiseaseAcervicornis/blob/fc9035ce5f30c2639faf6f0f86a6574eff4d06cc/Schul2022_WBD_Rcode_Apr2022.R",
+  "provider": "GitHub",
+  "version": "fc9035ce5f30c2639faf6f0f86a6574eff4d06cc",
+  "kind": "code",
+  "category": "code",
+  "format": "R",
+  "size_bytes": 55957,
+  "checksum": null,
+  "checksum_type": null,
+  "source_license": null,
+  "paper_doi": "10.7717/peerj.15170",
+  "dataset_doi": "10.5281/zenodo.7802849",
+  "concept_doi": "10.5281/zenodo.7802848",
+  "doi_scope": "Dataset DOI belongs to the parent deposit; this file has no separately registered DOI.",
+  "landing": "/?file=ccmi-file-aa86ca4601d5794c",
+  "metadata": "file-records/ccmi-file-aa86ca4601d5794c.meta.md",
+  "metadata_json": "file-records/ccmi-file-aa86ca4601d5794c.json",
+  "metadata_checked": "2026-10-29",
+  "link_status": "Listed in source inventory; full file transfer not tested.",
+  "external": true,
+  "git_blob_sha1": "25af6a2fd4ca07143ae7b3c03b1465b7d668e884",
+  "commit": "fc9035ce5f30c2639faf6f0f86a6574eff4d06cc",
+  "inventory_source": "https://api.github.com/repos/anyabrown/SchulDiseaseAcervicornis/git/trees/fc9035ce5f30c2639faf6f0f86a6574eff4d06cc?recursive=1",
+  "parent_title": "Microbial and visual indicators of white-band disease",
+  "parent_landing": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-whiteband.html",
+  "paper_title": "Concordance of microbial and visual health indicators of white-band disease in nursery reared Caribbean coral Acropora cervicornis",
+  "paper_relationship_status": "Linked by the paper data-availability statement or repository README.",
+  "units": null,
+  "data_dictionary": null,
+  "temporal_coverage": null,
+  "scientific_quality_control": "Not independently assessed",
+  "role_basis": "filename, extension and repository context",
+  "subjects": [
+    "microbiology-molecular",
+    "coral-health-restoration"
+  ],
+  "subject_labels": [
+    "Microbiology & molecular data",
+    "Coral health & restoration"
+  ],
+  "subject_basis": "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending.",
+  "subject_vocabulary": "ccmi-subjects:1.0.0",
+  "resource_types": [
+    "code"
+  ]
+}

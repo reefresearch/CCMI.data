@@ -1,0 +1,462 @@
+{
+  "doi": "10.25338/b8f643",
+  "prefix": "10.25338",
+  "suffix": "b8f643",
+  "identifiers": [],
+  "alternateIdentifiers": [],
+  "creators": [
+    {
+      "name": "Brown, Anya",
+      "nameType": "Personal",
+      "givenName": "Anya",
+      "familyName": "Brown",
+      "affiliation": [
+        "University of California, Davis"
+      ],
+      "nameIdentifiers": [
+        {
+          "schemeUri": "https://orcid.org",
+          "nameIdentifier": "https://orcid.org/0000-0002-0436-1458",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ]
+    },
+    {
+      "name": "Anastasiou, Dagny-Elyse",
+      "nameType": "Personal",
+      "givenName": "Dagny-Elyse",
+      "familyName": "Anastasiou",
+      "affiliation": [
+        "Central Caribbean Marine Institute"
+      ],
+      "nameIdentifiers": []
+    },
+    {
+      "name": "Schul, Monica",
+      "nameType": "Personal",
+      "givenName": "Monica",
+      "familyName": "Schul",
+      "affiliation": [
+        "University of Florida"
+      ],
+      "nameIdentifiers": []
+    },
+    {
+      "name": "MacVittie, Sophia",
+      "nameType": "Personal",
+      "givenName": "Sophia",
+      "familyName": "MacVittie",
+      "affiliation": [
+        "University of California, Merced"
+      ],
+      "nameIdentifiers": []
+    },
+    {
+      "name": "Spiers, Lindsay",
+      "nameType": "Personal",
+      "givenName": "Lindsay",
+      "familyName": "Spiers",
+      "affiliation": [
+        "University of Florida"
+      ],
+      "nameIdentifiers": []
+    },
+    {
+      "name": "Meyer, Julie",
+      "nameType": "Personal",
+      "givenName": "Julie",
+      "familyName": "Meyer",
+      "affiliation": [
+        "University of Florida"
+      ],
+      "nameIdentifiers": []
+    },
+    {
+      "name": "Manfrino, Carrie",
+      "nameType": "Personal",
+      "givenName": "Carrie",
+      "familyName": "Manfrino",
+      "affiliation": [
+        "Central Caribbean Marine Institute"
+      ],
+      "nameIdentifiers": []
+    },
+    {
+      "name": "Frazer, Thomas",
+      "nameType": "Personal",
+      "givenName": "Thomas",
+      "familyName": "Frazer",
+      "affiliation": [
+        "University of South Florida"
+      ],
+      "nameIdentifiers": []
+    }
+  ],
+  "titles": [
+    {
+      "title": "CCMI nursery coral disease 2019"
+    }
+  ],
+  "publisher": "Dryad",
+  "container": {},
+  "publicationYear": 2022,
+  "subjects": [
+    {
+      "subject": "FOS: Earth and related environmental sciences",
+      "schemeUri": "https://web-archive.oecd.org/2012-06-15/138575-38235147.pdf",
+      "subjectScheme": "fos"
+    },
+    {
+      "subject": "FOS: Earth and related environmental sciences",
+      "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+      "subjectScheme": "Fields of Science and Technology (FOS)"
+    },
+    {
+      "subject": "coral"
+    },
+    {
+      "subject": "coral nursery"
+    },
+    {
+      "subject": "Acropora cervicornis"
+    },
+    {
+      "subject": "disease"
+    },
+    {
+      "subject": "white band disease"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Central University of the Caribbean",
+      "affiliation": [],
+      "contributorType": "Sponsor",
+      "nameIdentifiers": []
+    }
+  ],
+  "dates": [
+    {
+      "date": "2022-11-09T18:05:04Z",
+      "dateType": "Submitted"
+    },
+    {
+      "date": "2022-11-17T00:00:00Z",
+      "dateType": "Issued"
+    },
+    {
+      "date": "2022-11-17T00:00:00Z",
+      "dateType": "Available"
+    }
+  ],
+  "language": "en",
+  "types": {
+    "ris": "DATA",
+    "bibtex": "misc",
+    "citeproc": "dataset",
+    "schemaOrg": "Dataset",
+    "resourceType": "dataset",
+    "resourceTypeGeneral": "Dataset"
+  },
+  "relatedIdentifiers": [
+    {
+      "relationType": "IsCitedBy",
+      "relatedIdentifier": "10.1038/s41598-022-23457-6",
+      "relatedIdentifierType": "DOI"
+    }
+  ],
+  "relatedItems": [],
+  "sizes": [
+    "956484 bytes"
+  ],
+  "formats": [],
+  "version": "5",
+  "rightsList": [
+    {
+      "rights": "Creative Commons Zero v1.0 Universal",
+      "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+      "schemeUri": "https://spdx.org/licenses/",
+      "rightsIdentifier": "cc0-1.0",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Marine infectious diseases are a leading cause of population declines\n globally due, in large part, to challenges in diagnosis and limited\n treatment options. Mitigating disease spread is particularly important for\n species targeted for conservation. In some systems, the strategic\n arrangement of organisms in space can constrain disease outbreaks,\n however, this approach has not been used in marine restoration.\n Reef-building corals have been particularly devastated by disease and\n continue to experience catastrophic population declines. Here, we\n opportunistically tracked white band disease in Acropora cervicornis as it\n moved through a coral nursery in Little Cayman, CI. We show mixtures of\n genotypes led to less prevalence of disease in nursery-reared Acropora\n cervicornis compared to corals on single genotype frames.  ",
+      "descriptionType": "Abstract"
+    },
+    {
+      "description": "The data were collected by divers in the CCMI nursery visually\n assessing each <em>Acropora</em>\n <em>cervicornis</em> colony present on PVC frames. Corals were\n considered Healthy (H) if no signs of the disease were present, diseased\n (X) if any disease was present, Dead - if there was no tissue left (D).\n Corals are on different frames and arranged by column and row. The coral\n ID is the colony's unique identifier.",
+      "descriptionType": "Methods"
+    },
+    {
+      "description": "We describe the data using the README file.",
+      "descriptionType": "Other"
+    }
+  ],
+  "geoLocations": [],
+  "fundingReferences": [],
+  "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjUzMzgvQjhGNjQzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5Ccm93biwgQW55YTwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMi0wNDM2LTE0NTg8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDVycmNlbTY5IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPlVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSwgRGF2aXM8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkFuYXN0YXNpb3UsIERhZ255LUVseXNlPC9jcmVhdG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uPkNlbnRyYWwgQ2FyaWJiZWFuIE1hcmluZSBJbnN0aXR1dGU8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlNjaHVsLCBNb25pY2E8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDJ5M2FkNjQ3IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPlVuaXZlcnNpdHkgb2YgRmxvcmlkYTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TWFjVml0dGllLCBTb3BoaWE8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDBkOWFoMTA1IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPlVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSwgTWVyY2VkPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5TcGllcnMsIExpbmRzYXk8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDJ5M2FkNjQ3IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPlVuaXZlcnNpdHkgb2YgRmxvcmlkYTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TWV5ZXIsIEp1bGllPC9jcmVhdG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uIGFmZmlsaWF0aW9uSWRlbnRpZmllcj0iaHR0cHM6Ly9yb3Iub3JnLzAyeTNhZDY0NyIgYWZmaWxpYXRpb25JZGVudGlmaWVyU2NoZW1lPSJST1IiIHNjaGVtZVVSST0iaHR0cHM6Ly9yb3Iub3JnIj5Vbml2ZXJzaXR5IG9mIEZsb3JpZGE8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPk1hbmZyaW5vLCBDYXJyaWU8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+Q2VudHJhbCBDYXJpYmJlYW4gTWFyaW5lIEluc3RpdHV0ZTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+RnJhemVyLCBUaG9tYXM8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDMyZGI1eDgyIiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPlVuaXZlcnNpdHkgb2YgU291dGggRmxvcmlkYTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkNDTUkgbnVyc2VyeSBjb3JhbCBkaXNlYXNlIDIwMTk8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXIgcHVibGlzaGVySWRlbnRpZmllcj0iaHR0cHM6Ly9yb3Iub3JnLzAweDZoNW45NSIgcHVibGlzaGVySWRlbnRpZmllclNjaGVtZT0iUk9SIiBzY2hlbWVVUkk9Imh0dHBzOi8vcm9yLm9yZy8iPkRyeWFkPC9wdWJsaXNoZXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhc2V0Ij5kYXRhc2V0PC9yZXNvdXJjZVR5cGU+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDIyPC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0iZm9zIiBzY2hlbWVVUkk9Imh0dHBzOi8vd2ViLWFyY2hpdmUub2VjZC5vcmcvMjAxMi0wNi0xNS8xMzg1NzUtMzgyMzUxNDcucGRmIj5GT1M6IEVhcnRoIGFuZCByZWxhdGVkIGVudmlyb25tZW50YWwgc2NpZW5jZXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5jb3JhbDwvc3ViamVjdD4KICAgIDxzdWJqZWN0PmNvcmFsIG51cnNlcnk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5BY3JvcG9yYSBjZXJ2aWNvcm5pczwvc3ViamVjdD4KICAgIDxzdWJqZWN0PmRpc2Vhc2U8L3N1YmplY3Q+CiAgICA8c3ViamVjdD53aGl0ZSBiYW5kIGRpc2Vhc2U8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iU3BvbnNvciI+CiAgICAgIDxjb250cmlidXRvck5hbWU+Q2VudHJhbCBVbml2ZXJzaXR5IG9mIHRoZSBDYXJpYmJlYW48L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgPC9jb250cmlidXRvcnM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IlN1Ym1pdHRlZCI+MjAyMi0xMS0wOVQxODowNTowNFo8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDIyLTExLTE3VDAwOjAwOjAwWjwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMjItMTEtMTdUMDA6MDA6MDBaPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5IiByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSI+aHR0cHM6Ly9kb2kub3JnLzEwLjEwMzgvczQxNTk4LTAyMi0yMzQ1Ny02PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8c2l6ZXM+CiAgICA8c2l6ZT45NTY0ODQgYnl0ZXM8L3NpemU+CiAgPC9zaXplcz4KICA8dmVyc2lvbj41PC92ZXJzaW9uPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vc3BkeC5vcmcvbGljZW5zZXMvQ0MwLTEuMC5odG1sIj5DcmVhdGl2ZSBDb21tb25zIFplcm8gdjEuMCBVbml2ZXJzYWw8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij4KICAgICAgTWFyaW5lIGluZmVjdGlvdXMgZGlzZWFzZXMgYXJlIGEgbGVhZGluZyBjYXVzZSBvZiBwb3B1bGF0aW9uIGRlY2xpbmVzCiAgICAgIGdsb2JhbGx5IGR1ZSwgaW4gbGFyZ2UgcGFydCwgdG8gY2hhbGxlbmdlcyBpbiBkaWFnbm9zaXMgYW5kIGxpbWl0ZWQKICAgICAgdHJlYXRtZW50IG9wdGlvbnMuIE1pdGlnYXRpbmcgZGlzZWFzZSBzcHJlYWQgaXMgcGFydGljdWxhcmx5IGltcG9ydGFudCBmb3IKICAgICAgc3BlY2llcyB0YXJnZXRlZCBmb3IgY29uc2VydmF0aW9uLiBJbiBzb21lIHN5c3RlbXMsIHRoZSBzdHJhdGVnaWMKICAgICAgYXJyYW5nZW1lbnQgb2Ygb3JnYW5pc21zIGluIHNwYWNlIGNhbiBjb25zdHJhaW4gZGlzZWFzZSBvdXRicmVha3MsCiAgICAgIGhvd2V2ZXIsIHRoaXMgYXBwcm9hY2ggaGFzIG5vdCBiZWVuIHVzZWQgaW4gbWFyaW5lIHJlc3RvcmF0aW9uLgogICAgICBSZWVmLWJ1aWxkaW5nIGNvcmFscyBoYXZlIGJlZW4gcGFydGljdWxhcmx5IGRldmFzdGF0ZWQgYnkgZGlzZWFzZSBhbmQKICAgICAgY29udGludWUgdG8gZXhwZXJpZW5jZSBjYXRhc3Ryb3BoaWMgcG9wdWxhdGlvbiBkZWNsaW5lcy4gSGVyZSwgd2UKICAgICAgb3Bwb3J0dW5pc3RpY2FsbHkgdHJhY2tlZCB3aGl0ZSBiYW5kIGRpc2Vhc2UgaW4gQWNyb3BvcmEgY2Vydmljb3JuaXMgYXMgaXQKICAgICAgbW92ZWQgdGhyb3VnaCBhIGNvcmFsIG51cnNlcnkgaW4gTGl0dGxlIENheW1hbiwgQ0kuIFdlIHNob3cgbWl4dHVyZXMgb2YKICAgICAgZ2Vub3R5cGVzIGxlZCB0byBsZXNzIHByZXZhbGVuY2Ugb2YgZGlzZWFzZSBpbiBudXJzZXJ5LXJlYXJlZCBBY3JvcG9yYQogICAgICBjZXJ2aWNvcm5pcyBjb21wYXJlZCB0byBjb3JhbHMgb24gc2luZ2xlIGdlbm90eXBlIGZyYW1lcy4gJmFtcDtuYnNwOwogICAgPC9kZXNjcmlwdGlvbj4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9Ik1ldGhvZHMiPgogICAgICAmbHQ7cCZndDtUaGUgZGF0YSB3ZXJlIGNvbGxlY3RlZCBieSBkaXZlcnMgaW4gdGhlIENDTUkgbnVyc2VyeSB2aXN1YWxseQogICAgICBhc3Nlc3NpbmcgZWFjaCAmbHQ7ZW0mZ3Q7QWNyb3BvcmEmbHQ7L2VtJmd0OwogICAgICAmbHQ7ZW0mZ3Q7Y2Vydmljb3JuaXMmbHQ7L2VtJmd0OyBjb2xvbnkgcHJlc2VudCBvbiBQVkMgZnJhbWVzLiBDb3JhbHMgd2VyZQogICAgICBjb25zaWRlcmVkIEhlYWx0aHkgKEgpIGlmIG5vIHNpZ25zIG9mIHRoZSBkaXNlYXNlIHdlcmUgcHJlc2VudCwgZGlzZWFzZWQKICAgICAgKFgpIGlmIGFueSBkaXNlYXNlIHdhcyBwcmVzZW50LCBEZWFkIC0gaWYgdGhlcmUgd2FzIG5vIHRpc3N1ZSBsZWZ0IChEKS4KICAgICAgQ29yYWxzIGFyZSBvbiBkaWZmZXJlbnQgZnJhbWVzIGFuZCBhcnJhbmdlZCBieSBjb2x1bW4gYW5kIHJvdy4gVGhlIGNvcmFsCiAgICAgIElEIGlzIHRoZSBjb2xvbnkncyB1bmlxdWUgaWRlbnRpZmllci4mbHQ7L3AmZ3Q7CiAgICA8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPiZsdDtwJmd0O1dlIGRlc2NyaWJlIHRoZSBkYXRhIHVzaW5nIHRoZSBSRUFETUUgZmlsZS4mbHQ7L3AmZ3Q7PC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4=",
+  "url": "https://datadryad.org/dataset/doi:10.25338/B8F643",
+  "contentUrl": null,
+  "metadataVersion": 9,
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "source": "mds",
+  "isActive": true,
+  "state": "findable",
+  "reason": null,
+  "viewCount": 153,
+  "viewsOverTime": [
+    {
+      "yearMonth": "2022-11",
+      "total": 9
+    },
+    {
+      "yearMonth": "2022-12",
+      "total": 1
+    },
+    {
+      "yearMonth": "2023-01",
+      "total": 8
+    },
+    {
+      "yearMonth": "2023-03",
+      "total": 3
+    },
+    {
+      "yearMonth": "2023-04",
+      "total": 2
+    },
+    {
+      "yearMonth": "2023-05",
+      "total": 3
+    },
+    {
+      "yearMonth": "2023-07",
+      "total": 1
+    },
+    {
+      "yearMonth": "2023-08",
+      "total": 35
+    },
+    {
+      "yearMonth": "2023-09",
+      "total": 30
+    },
+    {
+      "yearMonth": "2023-11",
+      "total": 3
+    },
+    {
+      "yearMonth": "2023-12",
+      "total": 5
+    },
+    {
+      "yearMonth": "2024-01",
+      "total": 1
+    },
+    {
+      "yearMonth": "2024-02",
+      "total": 3
+    },
+    {
+      "yearMonth": "2024-04",
+      "total": 1
+    },
+    {
+      "yearMonth": "2024-08",
+      "total": 2
+    },
+    {
+      "yearMonth": "2024-11",
+      "total": 4
+    },
+    {
+      "yearMonth": "2025-01",
+      "total": 2
+    },
+    {
+      "yearMonth": "2025-02",
+      "total": 1
+    },
+    {
+      "yearMonth": "2025-04",
+      "total": 1
+    },
+    {
+      "yearMonth": "2025-05",
+      "total": 1
+    },
+    {
+      "yearMonth": "2025-06",
+      "total": 1
+    },
+    {
+      "yearMonth": "2025-07",
+      "total": 2
+    },
+    {
+      "yearMonth": "2025-08",
+      "total": 1
+    },
+    {
+      "yearMonth": "2025-10",
+      "total": 2
+    },
+    {
+      "yearMonth": "2025-11",
+      "total": 3
+    },
+    {
+      "yearMonth": "2025-12",
+      "total": 2
+    },
+    {
+      "yearMonth": "2026-01",
+      "total": 1
+    },
+    {
+      "yearMonth": "2026-04",
+      "total": 4
+    },
+    {
+      "yearMonth": "2026-05",
+      "total": 1
+    },
+    {
+      "yearMonth": "2026-06",
+      "total": 6
+    },
+    {
+      "yearMonth": "2026-07",
+      "total": 5
+    },
+    {
+      "yearMonth": "2026-08",
+      "total": 5
+    },
+    {
+      "yearMonth": "2026-09",
+      "total": 4
+    }
+  ],
+  "downloadCount": 17,
+  "downloadsOverTime": [
+    {
+      "yearMonth": "2023-01",
+      "total": 4
+    },
+    {
+      "yearMonth": "2023-04",
+      "total": 1
+    },
+    {
+      "yearMonth": "2023-12",
+      "total": 2
+    },
+    {
+      "yearMonth": "2024-01",
+      "total": 1
+    },
+    {
+      "yearMonth": "2024-02",
+      "total": 0
+    },
+    {
+      "yearMonth": "2024-04",
+      "total": 0
+    },
+    {
+      "yearMonth": "2024-08",
+      "total": 2
+    },
+    {
+      "yearMonth": "2024-11",
+      "total": 2
+    },
+    {
+      "yearMonth": "2025-01",
+      "total": 0
+    },
+    {
+      "yearMonth": "2025-02",
+      "total": 0
+    },
+    {
+      "yearMonth": "2025-04",
+      "total": 1
+    },
+    {
+      "yearMonth": "2025-05",
+      "total": 0
+    },
+    {
+      "yearMonth": "2025-06",
+      "total": 0
+    },
+    {
+      "yearMonth": "2025-07",
+      "total": 0
+    },
+    {
+      "yearMonth": "2025-08",
+      "total": 0
+    },
+    {
+      "yearMonth": "2025-10",
+      "total": 0
+    },
+    {
+      "yearMonth": "2025-11",
+      "total": 1
+    },
+    {
+      "yearMonth": "2025-12",
+      "total": 0
+    },
+    {
+      "yearMonth": "2026-01",
+      "total": 0
+    },
+    {
+      "yearMonth": "2026-04",
+      "total": 1
+    },
+    {
+      "yearMonth": "2026-05",
+      "total": 0
+    },
+    {
+      "yearMonth": "2026-06",
+      "total": 1
+    },
+    {
+      "yearMonth": "2026-07",
+      "total": 1
+    },
+    {
+      "yearMonth": "2026-08",
+      "total": 0
+    },
+    {
+      "yearMonth": "2026-09",
+      "total": 0
+    }
+  ],
+  "referenceCount": 0,
+  "citationCount": 1,
+  "citationsOverTime": [
+    {
+      "year": "2024",
+      "total": 1
+    }
+  ],
+  "partCount": 0,
+  "partOfCount": 0,
+  "versionCount": 0,
+  "versionOfCount": 0,
+  "created": "2022-11-17T20:26:09.000Z",
+  "registered": "2022-11-17T20:26:15.000Z",
+  "published": "2022",
+  "updated": "2026-01-28T09:23:06.000Z"
+}

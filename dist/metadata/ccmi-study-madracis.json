@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "10.5281/zenodo.10055775",
+  "name": "Irradiance-driven trophic plasticity in Madracis pharensis",
+  "description": "Photophysiology, skeletal morphology and symbiont data with analysis code for corals growing in different orientations on a shipwreck at 30 m in the Bay of Haifa. The repository uses an earlier study title.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-madracis.html",
+  "sameAs": "https://zenodo.org/records/10055775",
+  "citation": "https://doi.org/10.1038/s41598-024-54217-3",
+  "version": "record 10055775",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "FIReData_Med2022_Annotated.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/10055775/files/FIReData_Med2022_Annotated.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Madracis_SEM.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/10055775/files/Madracis_SEM.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Med corals.pdf",
+      "encodingFormat": "PDF",
+      "contentUrl": "https://zenodo.org/records/10055775/files/Med%20corals.pdf?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Med_Madracis_R.Rmd",
+      "encodingFormat": "RMD",
+      "contentUrl": "https://zenodo.org/records/10055775/files/Med_Madracis_R.Rmd?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "symbiont data heatmap.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/10055775/files/symbiont%20data%20heatmap.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "symbiont data.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/10055775/files/symbiont%20data.csv?download=1"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "keywords": [
+    "Physiology & performance",
+    "Microbiology & molecular data"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "physiology-performance",
+      "name": "Physiology & performance",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "microbiology-molecular",
+      "name": "Microbiology & molecular data",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

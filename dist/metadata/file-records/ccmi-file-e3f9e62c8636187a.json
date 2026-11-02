@@ -1,0 +1,50 @@
+{
+  "id": "ccmi-file-e3f9e62c8636187a",
+  "parent_id": "ccmi-study-pickle-bank",
+  "name": "README.md",
+  "title": "README.md",
+  "url": "https://raw.githubusercontent.com/JackVJohnson/Pickle-Bank-Fish-community/ad60a16549c00d9a37df8fb9c24713141b68fb0b/README.md",
+  "repository_url": "https://github.com/JackVJohnson/Pickle-Bank-Fish-community/blob/ad60a16549c00d9a37df8fb9c24713141b68fb0b/README.md",
+  "provider": "GitHub",
+  "version": "ad60a16549c00d9a37df8fb9c24713141b68fb0b",
+  "kind": "documentation",
+  "category": "ecological",
+  "format": "MD",
+  "size_bytes": 147,
+  "checksum": null,
+  "checksum_type": null,
+  "source_license": null,
+  "paper_doi": "10.3389/fmars.2025.1539066",
+  "dataset_doi": null,
+  "concept_doi": null,
+  "doi_scope": "Dataset DOI belongs to the parent deposit; this file has no separately registered DOI.",
+  "landing": "/?file=ccmi-file-e3f9e62c8636187a",
+  "metadata": "file-records/ccmi-file-e3f9e62c8636187a.meta.md",
+  "metadata_json": "file-records/ccmi-file-e3f9e62c8636187a.json",
+  "metadata_checked": "2026-10-29",
+  "link_status": "Listed in source inventory; full file transfer not tested.",
+  "external": true,
+  "git_blob_sha1": "3d998b67d3188278ae72e038b783b9c1a62b27a2",
+  "commit": "ad60a16549c00d9a37df8fb9c24713141b68fb0b",
+  "inventory_source": "https://api.github.com/repos/JackVJohnson/Pickle-Bank-Fish-community/git/trees/ad60a16549c00d9a37df8fb9c24713141b68fb0b?recursive=1",
+  "parent_title": "Pickle Bank mesophotic reef fish communities",
+  "parent_landing": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-pickle-bank.html",
+  "paper_title": "Depth partitioning of mesophotic reef fish communities on Pickle Bank seamount",
+  "paper_relationship_status": "Linked by the paper data-availability statement or repository README.",
+  "units": null,
+  "data_dictionary": null,
+  "temporal_coverage": null,
+  "scientific_quality_control": "Not independently assessed",
+  "role_basis": "filename, extension and repository context",
+  "subjects": [
+    "biodiversity-communities"
+  ],
+  "subject_labels": [
+    "Biodiversity & communities"
+  ],
+  "subject_basis": "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending.",
+  "subject_vocabulary": "ccmi-subjects:1.0.0",
+  "resource_types": [
+    "documentation"
+  ]
+}

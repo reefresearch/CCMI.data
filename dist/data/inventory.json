@@ -1,0 +1,374 @@
+[
+  {
+    "source": "ICON26m.xlsx",
+    "aliases": [
+      "ICON26m.xlsx",
+      "ICON26m_26-10-26.xlsx"
+    ],
+    "sha256": "4e2ad9695f10338b056094fa63bdbddbcf369094e96527c10eaf6358f31adc27",
+    "bytes": 160719,
+    "sheet": "Data",
+    "sheets": [
+      "Data",
+      "Events",
+      "Details"
+    ],
+    "headers": [
+      "#",
+      "Date-Time (EST)",
+      "Temperature , \u00b0C",
+      "Light , lux"
+    ],
+    "records": 2293,
+    "start": "2026-06-29 13:00:00",
+    "end": "2026-07-23 10:00:00",
+    "timestamp_label": "Date-Time (EST)",
+    "timezone": "UTC-05:00 as labelled; not converted",
+    "interval_minutes": 15.0,
+    "interval_counts": {
+      "15.0": 2292
+    },
+    "duplicate_timestamps": 0,
+    "non_monotonic_steps": 0,
+    "missing": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "details": {
+      "App Name": "HOBOconnect",
+      "Version": "2.11.1 (1787146363)",
+      "Product": "MX2202",
+      "Serial Number": "22264297",
+      "Firmware Version": "70.140",
+      "Manufacturer": "Onset Computer Corporation",
+      "Device Memory": "176128",
+      "Header Created": "2026/06/29 12:05:42 EST",
+      "Name": "ICON26m-22264297",
+      "Location": "Off",
+      "Group Name": "Nursery",
+      "Deployment Number": "4",
+      "Never Stop (Overwrites Old Data) Enabled": "No",
+      "Configure Date": "2026/06/29 12:05:42 EST",
+      "Logging Interval": "0 hour 15 minutes 0 seconds",
+      "Logging Mode": "Fixed - Normal",
+      "Start Logging": "On Date/Time 2026/06/29 13:00:00 EST",
+      "Stop Logging": "Stop When Memory Fills , Stop on Button Push ",
+      "Show Visual Alarms Until": "Sensors In Limits",
+      "Show LED": "On",
+      "Bluetooth Always On": "Off",
+      "Upload Data Via": "Off",
+      "High Alarm Value": "Not Configured",
+      "Low Alarm Value": "Not Configured",
+      "Samples": "11128",
+      "Max": "18780.16",
+      "Min": ".00",
+      "Avg": "1733.14",
+      "Std Dev": "3044.36",
+      "First Sample Time": "2026/06/29 13:00:00 EST",
+      "Last Sample Time": "2026/10/23 10:45:00 EST"
+    },
+    "csv": "ICON26m.csv",
+    "csv_sha256": "9edd25b75e42135204de9b3f4c5b1db1f6e5aeda66de559f6cd07cfee101b421"
+  },
+  {
+    "source": "ICON30m.xlsx",
+    "aliases": [
+      "ICON30m.xlsx",
+      "ICON30m_26-10-26.xlsx"
+    ],
+    "sha256": "bd1097346211548a6287a3eb687f7b60ff51d3975576d78b3b790aea98837a64",
+    "bytes": 251776,
+    "sheet": "Data",
+    "sheets": [
+      "Data",
+      "Events",
+      "Details"
+    ],
+    "headers": [
+      "#",
+      "Date-Time (EST)",
+      "Temperature , \u00b0C"
+    ],
+    "records": 8859,
+    "start": "2026-07-23 10:15:00",
+    "end": "2026-10-23 16:45:00",
+    "timestamp_label": "Date-Time (EST)",
+    "timezone": "UTC-05:00 as labelled; not converted",
+    "interval_minutes": 15.0,
+    "interval_counts": {
+      "15.0": 8858
+    },
+    "duplicate_timestamps": 0,
+    "non_monotonic_steps": 0,
+    "missing": [
+      0,
+      0,
+      0
+    ],
+    "details": {
+      "App Name": "HOBOconnect",
+      "Version": "2.11.1 (1787146363)",
+      "Product": "MX2203",
+      "Serial Number": "22266489",
+      "Firmware Version": "62.140",
+      "Manufacturer": "Onset Computer Corporation",
+      "Device Memory": "176128",
+      "Header Created": "2026/06/29 12:07:14 EST",
+      "Name": "ICON30m-22266489",
+      "Location": "Off",
+      "Group Name": "Nursery",
+      "Deployment Number": "4",
+      "Never Stop (Overwrites Old Data) Enabled": "No",
+      "Configure Date": "2026/06/29 12:07:14 EST",
+      "Logging Interval": "0 hour 15 minutes 0 seconds",
+      "Logging Mode": "Fixed - Normal",
+      "Start Logging": "On Date/Time 2026/06/29 13:00:00 EST",
+      "Stop Logging": "Stop When Memory Fills , Stop on Button Push ",
+      "Show Visual Alarms Until": "Sensors In Limits",
+      "Show LED": "On",
+      "Bluetooth Always On": "Off",
+      "Upload Data Via": "Off",
+      "High Alarm Value": "Not Configured",
+      "Low Alarm Value": "Not Configured",
+      "Samples": "11152",
+      "Max": "31.79",
+      "Min": "22.06",
+      "Avg": "29.97",
+      "Std Dev": ".52",
+      "First Sample Time": "2026/06/29 13:00:00 EST",
+      "Last Sample Time": "2026/10/23 16:45:00 EST"
+    },
+    "csv": "ICON30m.csv",
+    "csv_sha256": "6ac4de2f4cdc523781f38adf9b29d70a5df7b95ce8c10fd77e2300d2dcfcad51"
+  },
+  {
+    "source": "ICON_18m.xlsx",
+    "aliases": [
+      "ICON_18m.xlsx",
+      "ICON_18m_26-10-26.xlsx"
+    ],
+    "sha256": "a5faf206bf2c68cf8a5a2af4acb712477d21929ba11c11ce9d4c8224163eb0e6",
+    "bytes": 583988,
+    "sheet": "ICON_18_231026",
+    "sheets": [
+      "ICON_18_231026",
+      "Events"
+    ],
+    "headers": [
+      "#",
+      "Date Time, GMT-05:00",
+      "Temp, \u00b0C (LGR S/N: 10383248, SEN S/N: 10383248)",
+      "Intensity, Lux (LGR S/N: 10383248, SEN S/N: 10383248)"
+    ],
+    "records": 21715,
+    "start": "2026-03-11 09:00:00",
+    "end": "2026-10-23 13:30:00",
+    "timestamp_label": "Date Time, GMT-05:00",
+    "timezone": "UTC-05:00 as labelled; not converted",
+    "interval_minutes": 15.0,
+    "interval_counts": {
+      "15.0": 21714
+    },
+    "duplicate_timestamps": 0,
+    "non_monotonic_steps": 0,
+    "missing": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "details": {},
+    "csv": "ICON_18m.csv",
+    "csv_sha256": "2e6f4836d597d519ad6713f3b44cd2dd6655dbc703dd11555157d9d660d31d85"
+  },
+  {
+    "source": "ICON_22m.xlsx",
+    "aliases": [
+      "ICON_22m.xlsx",
+      "ICON_22m_26-10-26.xlsx"
+    ],
+    "sha256": "3c708b3bb5396b6424782f2b423df225ce576add99b8c4d0888c718272936d9b",
+    "bytes": 541748,
+    "sheet": "Data",
+    "sheets": [
+      "Data"
+    ],
+    "headers": [
+      "#",
+      "Date-Time (EST)",
+      "Temperature , \u00b0C",
+      "Light , lux"
+    ],
+    "records": 17480,
+    "start": "2026-04-24 10:55:00",
+    "end": "2026-10-23 14:15:00",
+    "timestamp_label": "Date-Time (EST)",
+    "timezone": "UTC-05:00 as labelled; not converted",
+    "interval_minutes": 15.0,
+    "interval_counts": {
+      "15.0": 17478,
+      "110.0": 1
+    },
+    "duplicate_timestamps": 0,
+    "non_monotonic_steps": 0,
+    "missing": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "details": {},
+    "csv": "ICON_22m.csv",
+    "csv_sha256": "308c057b65f69ded1f54355804301fea178113920d3ba6d7ee4c576d0fe776b7"
+  },
+  {
+    "source": "ICON_26_26-10-26m.xlsx",
+    "aliases": [
+      "ICON_26_26-10-26m.xlsx",
+      "ICON_26m.xlsx"
+    ],
+    "sha256": "bf88442b9b4e1ade3a9f53ed847ca7f622a163d854474874671962e48f724285",
+    "bytes": 419577,
+    "sheet": "Data",
+    "sheets": [
+      "Data",
+      "Events",
+      "Details"
+    ],
+    "headers": [
+      "#",
+      "Date-Time (EST)",
+      "Temperature , \u00b0C",
+      "Light , lux"
+    ],
+    "records": 17479,
+    "start": "2026-04-24 10:00:00",
+    "end": "2026-10-23 13:15:00",
+    "timestamp_label": "Date-Time (EST)",
+    "timezone": "UTC-05:00 as labelled; not converted",
+    "interval_minutes": 15.0,
+    "interval_counts": {
+      "15.0": 17477,
+      "120.0": 1
+    },
+    "duplicate_timestamps": 0,
+    "non_monotonic_steps": 0,
+    "missing": [
+      11138,
+      0,
+      0,
+      8845
+    ],
+    "details": {
+      "App Name": "HOBOconnect",
+      "Version": "2.10.1 (1779452022)",
+      "Product": "MX2202",
+      "Serial Number": "22264297",
+      "Firmware Version": "70.140",
+      "Manufacturer": "Onset Computer Corporation",
+      "Device Memory": "176128",
+      "Header Created": "2026/04/24 09:56:13 EST",
+      "Name": "ICON26m-22264297",
+      "Location": "Off",
+      "Group Name": "Nursery",
+      "Deployment Number": "3",
+      "Never Stop (Overwrites Old Data) Enabled": "No",
+      "Configure Date": "2026/04/24 09:56:13 EST",
+      "Logging Interval": "0 hour 15 minutes 0 seconds",
+      "Logging Mode": "Fixed - Normal",
+      "Start Logging": "On Date/Time 2026/04/24 10:00:00 EST",
+      "Stop Logging": "Stop When Memory Fills , Stop on Button Push ",
+      "Show Visual Alarms Until": "Sensors In Limits",
+      "Show LED": "On",
+      "Bluetooth Always On": "Off",
+      "Upload Data Via": "Off",
+      "High Alarm Value": "Not Configured",
+      "Low Alarm Value": "Not Configured",
+      "Samples": "6343",
+      "Max": "21657.60",
+      "Min": ".00",
+      "Avg": "2410.76",
+      "Std Dev": "3969.26",
+      "First Sample Time": "2026/04/24 10:00:00 EST",
+      "Last Sample Time": "2026/06/29 11:30:00 EST"
+    },
+    "csv": "ICON_26_26-10-26m.csv",
+    "csv_sha256": "7084ad2e5f0338c22b2b1048e3ed364fce4da2793420ba747e882535a0a23e57"
+  },
+  {
+    "source": "ICON_30m.xlsx",
+    "aliases": [
+      "ICON_30m.xlsx",
+      "ICON_30m_26-10-26.xlsx"
+    ],
+    "sha256": "36a8a6c82d0d76530d0f9593e033b8bfd1e5ec92fe82aede159ff9e6862f7625",
+    "bytes": 424978,
+    "sheet": "Data",
+    "sheets": [
+      "Data",
+      "Events",
+      "Details"
+    ],
+    "headers": [
+      "#",
+      "Date-Time (EST)",
+      "Temperature , \u00b0C",
+      "Light , lux"
+    ],
+    "records": 17473,
+    "start": "2026-04-24 09:56:00",
+    "end": "2026-10-23 10:45:00",
+    "timestamp_label": "Date-Time (EST)",
+    "timezone": "UTC-05:00 as labelled; not converted",
+    "interval_minutes": 15.0,
+    "interval_counts": {
+      "15.0": 17471,
+      "64.0": 1
+    },
+    "duplicate_timestamps": 0,
+    "non_monotonic_steps": 0,
+    "missing": [
+      11128,
+      0,
+      0,
+      8638
+    ],
+    "details": {
+      "App Name": "HOBOconnect",
+      "Version": "2.10.1 (1779452022)",
+      "Product": "MX2203",
+      "Serial Number": "22266489",
+      "Firmware Version": "62.140",
+      "Manufacturer": "Onset Computer Corporation",
+      "Device Memory": "176128",
+      "Header Created": "2026/04/24 09:55:08 EST",
+      "Name": "ICON30m-22266489",
+      "Location": "Off",
+      "Group Name": "Nursery",
+      "Deployment Number": "3",
+      "Never Stop (Overwrites Old Data) Enabled": "No",
+      "Configure Date": "2026/04/24 09:55:08 EST",
+      "Logging Interval": "0 hour 15 minutes 0 seconds",
+      "Logging Mode": "Fixed - Normal",
+      "Start Logging": "On Date/Time 2026/04/24 09:56:00 EST",
+      "Stop Logging": "Stop When Memory Fills , Stop on Button Push ",
+      "Show Visual Alarms Until": "Sensors In Limits",
+      "Show LED": "On",
+      "Bluetooth Always On": "Off",
+      "Upload Data Via": "Off",
+      "High Alarm Value": "Not Configured",
+      "Low Alarm Value": "Not Configured",
+      "Samples": "6345",
+      "Max": "29.95",
+      "Min": "26.84",
+      "Avg": "28.70",
+      "Std Dev": ".82",
+      "First Sample Time": "2026/04/24 09:56:00 EST",
+      "Last Sample Time": "2026/06/29 11:56:00 EST"
+    },
+    "csv": "ICON_30m.csv",
+    "csv_sha256": "4d2489ff344d427957c07f4d63ec665e2700c5716b772be3f43562b49530ea18"
+  }
+]

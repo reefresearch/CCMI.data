@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "10.5281/zenodo.17794522",
+  "name": "Genotype-specific responses after coral outplanting",
+  "description": "Coral photophysiology, growth and symbiont-density files with R Markdown analysis for the fate-tracking study of outplanted Acropora cervicornis.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-outplanting.html",
+  "sameAs": "https://zenodo.org/records/17794522",
+  "citation": "https://doi.org/10.1007/s00338-026-02863-6",
+  "version": "record 17794522",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "resembid.fire.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/17794522/files/resembid.fire.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "resembid.growth.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/17794522/files/resembid.growth.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "resembid.tle.master.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/17794522/files/resembid.tle.master.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "resembid.zoox.density.master.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/17794522/files/resembid.zoox.density.master.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "resembid_coral.pdf",
+      "encodingFormat": "PDF",
+      "contentUrl": "https://zenodo.org/records/17794522/files/resembid_coral.pdf?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "resembid_coral.rmd",
+      "encodingFormat": "RMD",
+      "contentUrl": "https://zenodo.org/records/17794522/files/resembid_coral.rmd?download=1"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "keywords": [
+    "Physiology & performance",
+    "Coral health & restoration"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "physiology-performance",
+      "name": "Physiology & performance",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "coral-health-restoration",
+      "name": "Coral health & restoration",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,1565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.111817,
+          19.66295
+        ]
+      },
+      "properties": {
+        "ID": 236,
+        "Site_Name": "Ron's Rock",
+        "Depth": "40.0 ft",
+        "Pins": 1,
+        "Northing": 19.66295,
+        "Easting": -80.111817,
+        "Lat_DMmmm": "19\u00b0 39.777' N",
+        "Long_DMmmm": "80\u00b0 6.709' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.111183,
+          19.664867
+        ]
+      },
+      "properties": {
+        "ID": 237,
+        "Site_Name": "Martha's Finyard",
+        "Depth": "45.0 ft",
+        "Pins": 1,
+        "Northing": 19.664867,
+        "Easting": -80.111183,
+        "Lat_DMmmm": "19\u00b0 39.892' N",
+        "Long_DMmmm": "80\u00b0 6.671' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.107817,
+          19.6685
+        ]
+      },
+      "properties": {
+        "ID": 238,
+        "Site_Name": "Sand Castle",
+        "Depth": "55.0 ft",
+        "Pins": 1,
+        "Northing": 19.6685,
+        "Easting": -80.107817,
+        "Lat_DMmmm": "19\u00b0 40.110' N",
+        "Long_DMmmm": "80\u00b0 6.469' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.106817,
+          19.6663
+        ]
+      },
+      "properties": {
+        "ID": 239,
+        "Site_Name": "Bush Gardens",
+        "Depth": "25.0 ft",
+        "Pins": 1,
+        "Northing": 19.6663,
+        "Easting": -80.106817,
+        "Lat_DMmmm": "19\u00b0 39.978' N",
+        "Long_DMmmm": "80\u00b0 6.409' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.106083,
+          19.670033
+        ]
+      },
+      "properties": {
+        "ID": 240,
+        "Site_Name": "Fisheye Fantasy",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.670033,
+        "Easting": -80.106083,
+        "Lat_DMmmm": "19\u00b0 40.202' N",
+        "Long_DMmmm": "80\u00b0 6.365' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.103383,
+          19.671483
+        ]
+      },
+      "properties": {
+        "ID": 241,
+        "Site_Name": "Jigsaw Puzzle",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.671483,
+        "Easting": -80.103383,
+        "Lat_DMmmm": "19\u00b0 40.289' N",
+        "Long_DMmmm": "80\u00b0 6.203' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.103383,
+          19.672467
+        ]
+      },
+      "properties": {
+        "ID": 242,
+        "Site_Name": "Paradise Plunge",
+        "Depth": "48.0 ft",
+        "Pins": 1,
+        "Northing": 19.672467,
+        "Easting": -80.103383,
+        "Lat_DMmmm": "19\u00b0 40.348' N",
+        "Long_DMmmm": "80\u00b0 6.203' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.100783,
+          19.67375
+        ]
+      },
+      "properties": {
+        "ID": 243,
+        "Site_Name": "Tibbett's Top",
+        "Depth": "25.0 ft",
+        "Pins": 1,
+        "Northing": 19.67375,
+        "Easting": -80.100783,
+        "Lat_DMmmm": "19\u00b0 40.425' N",
+        "Long_DMmmm": "80\u00b0 6.047' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0983,
+          19.67655
+        ]
+      },
+      "properties": {
+        "ID": 244,
+        "Site_Name": "McCoy's Wall",
+        "Depth": "55.0 ft",
+        "Pins": 1,
+        "Northing": 19.67655,
+        "Easting": -80.0983,
+        "Lat_DMmmm": "19\u00b0 40.593' N",
+        "Long_DMmmm": "80\u00b0 5.898' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095483,
+          19.677133
+        ]
+      },
+      "properties": {
+        "ID": 245,
+        "Site_Name": "Dot's Hot Spot",
+        "Depth": "21.0 ft",
+        "Pins": 1,
+        "Northing": 19.677133,
+        "Easting": -80.095483,
+        "Lat_DMmmm": "19\u00b0 40.628' N",
+        "Long_DMmmm": "80\u00b0 5.729' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.092983,
+          19.678767
+        ]
+      },
+      "properties": {
+        "ID": 246,
+        "Site_Name": "Joy's Joy",
+        "Depth": "25.0 ft",
+        "Pins": 2,
+        "Northing": 19.678767,
+        "Easting": -80.092983,
+        "Lat_DMmmm": "19\u00b0 40.726' N",
+        "Long_DMmmm": "80\u00b0 5.579' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0915,
+          19.679767
+        ]
+      },
+      "properties": {
+        "ID": 247,
+        "Site_Name": "Baracuda Bight",
+        "Depth": "30.0 ft",
+        "Pins": 1,
+        "Northing": 19.679767,
+        "Easting": -80.0915,
+        "Lat_DMmmm": "19\u00b0 40.786' N",
+        "Long_DMmmm": "80\u00b0 5.490' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.089833,
+          19.680767
+        ]
+      },
+      "properties": {
+        "ID": 248,
+        "Site_Name": "Coconut Wall",
+        "Depth": "35.0 ft",
+        "Pins": 1,
+        "Northing": 19.680767,
+        "Easting": -80.089833,
+        "Lat_DMmmm": "19\u00b0 40.846' N",
+        "Long_DMmmm": "80\u00b0 5.390' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0886,
+          19.681367
+        ]
+      },
+      "properties": {
+        "ID": 249,
+        "Site_Name": "Lea Lea's Lookout",
+        "Depth": "40.0 ft",
+        "Pins": 2,
+        "Northing": 19.681367,
+        "Easting": -80.0886,
+        "Lat_DMmmm": "19\u00b0 40.882' N",
+        "Long_DMmmm": "80\u00b0 5.316' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.086483,
+          19.681933
+        ]
+      },
+      "properties": {
+        "ID": 250,
+        "Site_Name": "Shear Wall",
+        "Depth": "25.0 ft",
+        "Pins": 1,
+        "Northing": 19.681933,
+        "Easting": -80.086483,
+        "Lat_DMmmm": "19\u00b0 40.916' N",
+        "Long_DMmmm": "80\u00b0 5.189' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.085467,
+          19.682333
+        ]
+      },
+      "properties": {
+        "ID": 251,
+        "Site_Name": "Great Wall West",
+        "Depth": "20.0 ft",
+        "Pins": 2,
+        "Northing": 19.682333,
+        "Easting": -80.085467,
+        "Lat_DMmmm": "19\u00b0 40.940' N",
+        "Long_DMmmm": "80\u00b0 5.128' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08415,
+          19.682983
+        ]
+      },
+      "properties": {
+        "ID": 252,
+        "Site_Name": "Great Wall East",
+        "Depth": "25.0 ft",
+        "Pins": 1,
+        "Northing": 19.682983,
+        "Easting": -80.08415,
+        "Lat_DMmmm": "19\u00b0 40.979' N",
+        "Long_DMmmm": "80\u00b0 5.049' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.082967,
+          19.683783
+        ]
+      },
+      "properties": {
+        "ID": 253,
+        "Site_Name": "Randy's Gazebo",
+        "Depth": "30.0 ft",
+        "Pins": 2,
+        "Northing": 19.683783,
+        "Easting": -80.082967,
+        "Lat_DMmmm": "19\u00b0 41.027' N",
+        "Long_DMmmm": "80\u00b0 4.978' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0806,
+          19.6844
+        ]
+      },
+      "properties": {
+        "ID": 254,
+        "Site_Name": "Donna's Delight",
+        "Depth": "30.0 ft",
+        "Pins": 1,
+        "Northing": 19.6844,
+        "Easting": -80.0806,
+        "Lat_DMmmm": "19\u00b0 41.064' N",
+        "Long_DMmmm": "80\u00b0 4.836' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.079067,
+          19.684733
+        ]
+      },
+      "properties": {
+        "ID": 255,
+        "Site_Name": "Marylin's Cut",
+        "Depth": "35.0 ft",
+        "Pins": 2,
+        "Northing": 19.684733,
+        "Easting": -80.079067,
+        "Lat_DMmmm": "19\u00b0 41.084' N",
+        "Long_DMmmm": "80\u00b0 4.744' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.078,
+          19.684917
+        ]
+      },
+      "properties": {
+        "ID": 256,
+        "Site_Name": "Three Fathom Wall",
+        "Depth": "25.0 ft",
+        "Pins": 2,
+        "Northing": 19.684917,
+        "Easting": -80.078,
+        "Lat_DMmmm": "19\u00b0 41.095' N",
+        "Long_DMmmm": "80\u00b0 4.680' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.075667,
+          19.685267
+        ]
+      },
+      "properties": {
+        "ID": 257,
+        "Site_Name": "Sailfin Miniwall",
+        "Depth": "20.0 ft",
+        "Pins": 1,
+        "Northing": 19.685267,
+        "Easting": -80.075667,
+        "Lat_DMmmm": "19\u00b0 41.116' N",
+        "Long_DMmmm": "80\u00b0 4.540' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.074917,
+          19.686317
+        ]
+      },
+      "properties": {
+        "ID": 258,
+        "Site_Name": "Blacktip Blvd.",
+        "Depth": "60.0 ft",
+        "Pins": 1,
+        "Northing": 19.686317,
+        "Easting": -80.074917,
+        "Lat_DMmmm": "19\u00b0 41.179' N",
+        "Long_DMmmm": "80\u00b0 4.495' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.072567,
+          19.687367
+        ]
+      },
+      "properties": {
+        "ID": 259,
+        "Site_Name": "Sarah's Set",
+        "Depth": "25.0 ft",
+        "Pins": 2,
+        "Northing": 19.687367,
+        "Easting": -80.072567,
+        "Lat_DMmmm": "19\u00b0 41.242' N",
+        "Long_DMmmm": "80\u00b0 4.354' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.070817,
+          19.68885
+        ]
+      },
+      "properties": {
+        "ID": 260,
+        "Site_Name": "Bus Stop",
+        "Depth": "35.0 ft",
+        "Pins": 1,
+        "Northing": 19.68885,
+        "Easting": -80.070817,
+        "Lat_DMmmm": "19\u00b0 41.331' N",
+        "Long_DMmmm": "80\u00b0 4.249' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06995,
+          19.68955
+        ]
+      },
+      "properties": {
+        "ID": 261,
+        "Site_Name": "Cumber's Caves",
+        "Depth": "20.0 ft",
+        "Pins": 2,
+        "Northing": 19.68955,
+        "Easting": -80.06995,
+        "Lat_DMmmm": "19\u00b0 41.373' N",
+        "Long_DMmmm": "80\u00b0 4.197' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.069433,
+          19.694433
+        ]
+      },
+      "properties": {
+        "ID": 262,
+        "Site_Name": "Paul's Anchor",
+        "Depth": "40.0 ft",
+        "Pins": 1,
+        "Northing": 19.694433,
+        "Easting": -80.069433,
+        "Lat_DMmmm": "19\u00b0 41.666' N",
+        "Long_DMmmm": "80\u00b0 4.166' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.069417,
+          19.690733
+        ]
+      },
+      "properties": {
+        "ID": 263,
+        "Site_Name": "Jackson Reef & Wall",
+        "Depth": "20.0 ft",
+        "Pins": 2,
+        "Northing": 19.690733,
+        "Easting": -80.069417,
+        "Lat_DMmmm": "19\u00b0 41.444' N",
+        "Long_DMmmm": "80\u00b0 4.165' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.069267,
+          19.6912
+        ]
+      },
+      "properties": {
+        "ID": 264,
+        "Site_Name": "Eagleray Roundup",
+        "Depth": "20.0 ft",
+        "Pins": 1,
+        "Northing": 19.6912,
+        "Easting": -80.069267,
+        "Lat_DMmmm": "19\u00b0 41.472' N",
+        "Long_DMmmm": "80\u00b0 4.156' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0692,
+          19.693583
+        ]
+      },
+      "properties": {
+        "ID": 265,
+        "Site_Name": "Magic Roundabout",
+        "Depth": "40.0 ft",
+        "Pins": 2,
+        "Northing": 19.693583,
+        "Easting": -80.0692,
+        "Lat_DMmmm": "19\u00b0 41.615' N",
+        "Long_DMmmm": "80\u00b0 4.152' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.069067,
+          19.6928
+        ]
+      },
+      "properties": {
+        "ID": 266,
+        "Site_Name": "Mike's Mountain",
+        "Depth": "25.0 ft",
+        "Pins": 1,
+        "Northing": 19.6928,
+        "Easting": -80.069067,
+        "Lat_DMmmm": "19\u00b0 41.568' N",
+        "Long_DMmmm": "80\u00b0 4.144' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06865,
+          19.6964
+        ]
+      },
+      "properties": {
+        "ID": 267,
+        "Site_Name": "Cascades",
+        "Depth": "55.0 ft",
+        "Pins": 1,
+        "Northing": 19.6964,
+        "Easting": -80.06865,
+        "Lat_DMmmm": "19\u00b0 41.784' N",
+        "Long_DMmmm": "80\u00b0 4.119' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.068533,
+          19.692567
+        ]
+      },
+      "properties": {
+        "ID": 268,
+        "Site_Name": "The Meadows",
+        "Depth": "25.0 ft",
+        "Pins": 2,
+        "Northing": 19.692567,
+        "Easting": -80.068533,
+        "Lat_DMmmm": "19\u00b0 41.554' N",
+        "Long_DMmmm": "80\u00b0 4.112' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.056867,
+          19.702417
+        ]
+      },
+      "properties": {
+        "ID": 269,
+        "Site_Name": "Rock Bottom Wall",
+        "Depth": "64.0 ft",
+        "Pins": 1,
+        "Northing": 19.702417,
+        "Easting": -80.056867,
+        "Lat_DMmmm": "19\u00b0 42.145' N",
+        "Long_DMmmm": "80\u00b0 3.412' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.056833,
+          19.700883
+        ]
+      },
+      "properties": {
+        "ID": 270,
+        "Site_Name": "Snap Shot",
+        "Depth": "35.0 ft",
+        "Pins": 1,
+        "Northing": 19.700883,
+        "Easting": -80.056833,
+        "Lat_DMmmm": "19\u00b0 42.053' N",
+        "Long_DMmmm": "80\u00b0 3.410' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05085,
+          19.702833
+        ]
+      },
+      "properties": {
+        "ID": 271,
+        "Site_Name": "Crystal Palace Wall",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.702833,
+        "Easting": -80.05085,
+        "Lat_DMmmm": "19\u00b0 42.170' N",
+        "Long_DMmmm": "80\u00b0 3.051' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03965,
+          19.704483
+        ]
+      },
+      "properties": {
+        "ID": 272,
+        "Site_Name": "The Bluff",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.704483,
+        "Easting": -80.03965,
+        "Lat_DMmmm": "19\u00b0 42.269' N",
+        "Long_DMmmm": "80\u00b0 2.379' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.013383,
+          19.708033
+        ]
+      },
+      "properties": {
+        "ID": 273,
+        "Site_Name": "Booby Pass",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.708033,
+        "Easting": -80.013383,
+        "Lat_DMmmm": "19\u00b0 42.482' N",
+        "Long_DMmmm": "80\u00b0 0.803' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0122,
+          19.706833
+        ]
+      },
+      "properties": {
+        "ID": 274,
+        "Site_Name": "Sailfin Reef",
+        "Depth": "36.0 ft",
+        "Pins": 1,
+        "Northing": 19.706833,
+        "Easting": -80.0122,
+        "Lat_DMmmm": "19\u00b0 42.410' N",
+        "Long_DMmmm": "80\u00b0 0.732' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0079,
+          19.7096
+        ]
+      },
+      "properties": {
+        "ID": 275,
+        "Site_Name": "Penguin's Leap",
+        "Depth": "55.0 ft",
+        "Pins": 1,
+        "Northing": 19.7096,
+        "Easting": -80.0079,
+        "Lat_DMmmm": "19\u00b0 42.576' N",
+        "Long_DMmmm": "80\u00b0 0.474' W",
+        "Island": "Little Cayman",
+        "Aspect": "North",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0233,
+          19.68075
+        ]
+      },
+      "properties": {
+        "ID": 276,
+        "Site_Name": "Coral City",
+        "Depth": "35.0 ft",
+        "Pins": 1,
+        "Northing": 19.68075,
+        "Easting": -80.0233,
+        "Lat_DMmmm": "19\u00b0 40.845' N",
+        "Long_DMmmm": "80\u00b0 1.398' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.023383,
+          19.679033
+        ]
+      },
+      "properties": {
+        "ID": 277,
+        "Site_Name": "Disneyland",
+        "Depth": "66.0 ft",
+        "Pins": 1,
+        "Northing": 19.679033,
+        "Easting": -80.023383,
+        "Lat_DMmmm": "19\u00b0 40.742' N",
+        "Long_DMmmm": "80\u00b0 1.403' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.034433,
+          19.674683
+        ]
+      },
+      "properties": {
+        "ID": 278,
+        "Site_Name": "Splitsville",
+        "Depth": "40.0 ft",
+        "Pins": 1,
+        "Northing": 19.674683,
+        "Easting": -80.034433,
+        "Lat_DMmmm": "19\u00b0 40.481' N",
+        "Long_DMmmm": "80\u00b0 2.066' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.042167,
+          19.667367
+        ]
+      },
+      "properties": {
+        "ID": 279,
+        "Site_Name": "Rockhouse Wall",
+        "Depth": "75.0 ft",
+        "Pins": 1,
+        "Northing": 19.667367,
+        "Easting": -80.042167,
+        "Lat_DMmmm": "19\u00b0 40.042' N",
+        "Long_DMmmm": "80\u00b0 2.530' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.042433,
+          19.668833
+        ]
+      },
+      "properties": {
+        "ID": 280,
+        "Site_Name": "Luca's Ledges",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.668833,
+        "Easting": -80.042433,
+        "Lat_DMmmm": "19\u00b0 40.130' N",
+        "Long_DMmmm": "80\u00b0 2.546' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.061933,
+          19.658417
+        ]
+      },
+      "properties": {
+        "ID": 281,
+        "Site_Name": "Lappy's Leap",
+        "Depth": "60.0 ft",
+        "Pins": 1,
+        "Northing": 19.658417,
+        "Easting": -80.061933,
+        "Lat_DMmmm": "19\u00b0 39.505' N",
+        "Long_DMmmm": "80\u00b0 3.716' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.067783,
+          19.65615
+        ]
+      },
+      "properties": {
+        "ID": 282,
+        "Site_Name": "Pete's Plunge",
+        "Depth": "60.0 ft",
+        "Pins": 1,
+        "Northing": 19.65615,
+        "Easting": -80.067783,
+        "Lat_DMmmm": "19\u00b0 39.369' N",
+        "Long_DMmmm": "80\u00b0 4.067' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Open Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.080883,
+          19.653
+        ]
+      },
+      "properties": {
+        "ID": 283,
+        "Site_Name": "The Edge",
+        "Depth": "55.0 ft",
+        "Pins": 1,
+        "Northing": 19.653,
+        "Easting": -80.080883,
+        "Lat_DMmmm": "19\u00b0 39.180' N",
+        "Long_DMmmm": "80\u00b0 4.853' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Line Fishing Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08245,
+          19.655383
+        ]
+      },
+      "properties": {
+        "ID": 284,
+        "Site_Name": "Soto Trader",
+        "Depth": "35.0 ft",
+        "Pins": 2,
+        "Northing": 19.655383,
+        "Easting": -80.08245,
+        "Lat_DMmmm": "19\u00b0 39.323' N",
+        "Long_DMmmm": "80\u00b0 4.947' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Line Fishing Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0825,
+          19.653883
+        ]
+      },
+      "properties": {
+        "ID": 285,
+        "Site_Name": "Harold's Hole",
+        "Depth": "55.0 ft",
+        "Pins": 1,
+        "Northing": 19.653883,
+        "Easting": -80.0825,
+        "Lat_DMmmm": "19\u00b0 39.233' N",
+        "Long_DMmmm": "80\u00b0 4.950' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Line Fishing Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0838,
+          19.654367
+        ]
+      },
+      "properties": {
+        "ID": 286,
+        "Site_Name": "Diver's Delight",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.654367,
+        "Easting": -80.0838,
+        "Lat_DMmmm": "19\u00b0 39.262' N",
+        "Long_DMmmm": "80\u00b0 5.028' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Line Fishing Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.084367,
+          19.655233
+        ]
+      },
+      "properties": {
+        "ID": 287,
+        "Site_Name": "Thompson's Reef",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.655233,
+        "Easting": -80.084367,
+        "Lat_DMmmm": "19\u00b0 39.314' N",
+        "Long_DMmmm": "80\u00b0 5.062' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Line Fishing Zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.088467,
+          19.656883
+        ]
+      },
+      "properties": {
+        "ID": 288,
+        "Site_Name": "Wahoo Reef",
+        "Depth": "37.0 ft",
+        "Pins": 1,
+        "Northing": 19.656883,
+        "Easting": -80.088467,
+        "Lat_DMmmm": "19\u00b0 39.413' N",
+        "Long_DMmmm": "80\u00b0 5.308' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08955,
+          19.657333
+        ]
+      },
+      "properties": {
+        "ID": 289,
+        "Site_Name": "Grundy's Gardens",
+        "Depth": "30.0 ft",
+        "Pins": 2,
+        "Northing": 19.657333,
+        "Easting": -80.08955,
+        "Lat_DMmmm": "19\u00b0 39.440' N",
+        "Long_DMmmm": "80\u00b0 5.373' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0898,
+          19.656033
+        ]
+      },
+      "properties": {
+        "ID": 290,
+        "Site_Name": "Uncle Lucky's",
+        "Depth": "50.0 ft",
+        "Pins": 1,
+        "Northing": 19.656033,
+        "Easting": -80.0898,
+        "Lat_DMmmm": "19\u00b0 39.362' N",
+        "Long_DMmmm": "80\u00b0 5.388' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0919,
+          19.6573
+        ]
+      },
+      "properties": {
+        "ID": 291,
+        "Site_Name": "Windsock Reef",
+        "Depth": "30.0 ft",
+        "Pins": 1,
+        "Northing": 19.6573,
+        "Easting": -80.0919,
+        "Lat_DMmmm": "19\u00b0 39.438' N",
+        "Long_DMmmm": "80\u00b0 5.514' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.092067,
+          19.656
+        ]
+      },
+      "properties": {
+        "ID": 292,
+        "Site_Name": "Black Hole",
+        "Depth": "50.0 ft",
+        "Pins": 2,
+        "Northing": 19.656,
+        "Easting": -80.092067,
+        "Lat_DMmmm": "19\u00b0 39.360' N",
+        "Long_DMmmm": "80\u00b0 5.524' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0937,
+          19.655833
+        ]
+      },
+      "properties": {
+        "ID": 293,
+        "Site_Name": "Charlie's Chimney",
+        "Depth": "65.0 ft",
+        "Pins": 1,
+        "Northing": 19.655833,
+        "Easting": -80.0937,
+        "Lat_DMmmm": "19\u00b0 39.350' N",
+        "Long_DMmmm": "80\u00b0 5.622' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.094017,
+          19.657367
+        ]
+      },
+      "properties": {
+        "ID": 294,
+        "Site_Name": "Gay's Reef",
+        "Depth": "30.0 ft",
+        "Pins": 1,
+        "Northing": 19.657367,
+        "Easting": -80.094017,
+        "Lat_DMmmm": "19\u00b0 39.442' N",
+        "Long_DMmmm": "80\u00b0 5.641' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09565,
+          19.65535
+        ]
+      },
+      "properties": {
+        "ID": 295,
+        "Site_Name": "Dynamite Drop-off",
+        "Depth": "30.0 ft",
+        "Pins": 1,
+        "Northing": 19.65535,
+        "Easting": -80.09565,
+        "Lat_DMmmm": "19\u00b0 39.321' N",
+        "Long_DMmmm": "80\u00b0 5.739' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.096983,
+          19.6566
+        ]
+      },
+      "properties": {
+        "ID": 296,
+        "Site_Name": "Richard's Reef",
+        "Depth": "40.0 ft",
+        "Pins": 1,
+        "Northing": 19.6566,
+        "Easting": -80.096983,
+        "Lat_DMmmm": "19\u00b0 39.396' N",
+        "Long_DMmmm": "80\u00b0 5.819' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09745,
+          19.655067
+        ]
+      },
+      "properties": {
+        "ID": 297,
+        "Site_Name": "Patty's Place",
+        "Depth": "65.0 ft",
+        "Pins": 2,
+        "Northing": 19.655067,
+        "Easting": -80.09745,
+        "Lat_DMmmm": "19\u00b0 39.304' N",
+        "Long_DMmmm": "80\u00b0 5.847' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0978,
+          19.656583
+        ]
+      },
+      "properties": {
+        "ID": 298,
+        "Site_Name": "Pirate's Point Reef",
+        "Depth": "35.0 ft",
+        "Pins": 2,
+        "Northing": 19.656583,
+        "Easting": -80.0978,
+        "Lat_DMmmm": "19\u00b0 39.395' N",
+        "Long_DMmmm": "80\u00b0 5.868' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.101383,
+          19.653233
+        ]
+      },
+      "properties": {
+        "ID": 299,
+        "Site_Name": "Lighthouse Wall",
+        "Depth": "75.0 ft",
+        "Pins": 1,
+        "Northing": 19.653233,
+        "Easting": -80.101383,
+        "Lat_DMmmm": "19\u00b0 39.194' N",
+        "Long_DMmmm": "80\u00b0 6.083' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1036,
+          19.654967
+        ]
+      },
+      "properties": {
+        "ID": 300,
+        "Site_Name": "West Point",
+        "Depth": "40.0 ft",
+        "Pins": 1,
+        "Northing": 19.654967,
+        "Easting": -80.1036,
+        "Lat_DMmmm": "19\u00b0 39.298' N",
+        "Long_DMmmm": "80\u00b0 6.216' W",
+        "Island": "Little Cayman",
+        "Aspect": "South",
+        "MPA": "Marine Reserve"
+      }
+    }
+  ]
+}

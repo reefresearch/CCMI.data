@@ -1,0 +1,1139 @@
+[
+  {
+    "id": "17794522",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.17794522",
+      "prefix": "10.5281",
+      "suffix": "zenodo.17794522",
+      "identifiers": [
+        {
+          "identifier": "oai:zenodo.org:17794522",
+          "identifierType": "oai"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "oai",
+          "alternateIdentifier": "oai:zenodo.org:17794522"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Goodbody Gringley, Gretchen",
+          "nameType": "Personal",
+          "givenName": "Gretchen",
+          "familyName": "Goodbody Gringley",
+          "affiliation": [
+            "San Diego State University"
+          ],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Jameson, Brett",
+          "nameType": "Personal",
+          "givenName": "Brett",
+          "familyName": "Jameson",
+          "affiliation": [
+            "Bermuda Institute of Ocean Sciences (ASU)"
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0002-7833-0005",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "title": "Data and code associated with Goodbody-Gringley et al 2026 Coral Reefs"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2025,
+      "subjects": [
+        {
+          "subject": "coral restoration"
+        },
+        {
+          "subject": "thermal performance"
+        },
+        {
+          "subject": "trade-offs"
+        },
+        {
+          "subject": "climate resilience"
+        },
+        {
+          "subject": "global warming"
+        },
+        {
+          "subject": "coral health"
+        },
+        {
+          "subject": "coral acclimatization"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Goodbody Gringley, Gretchen",
+          "nameType": "Personal",
+          "givenName": "Gretchen",
+          "familyName": "Goodbody Gringley",
+          "affiliation": [
+            "San Diego State University"
+          ],
+          "contributorType": "ProjectLeader",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0003-3439-0919",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Jameson, Brett",
+          "nameType": "Personal",
+          "givenName": "Brett",
+          "familyName": "Jameson",
+          "affiliation": [
+            "Bermuda Institute of Ocean Sciences (ASU)"
+          ],
+          "contributorType": "ProjectMember",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0002-7833-0005",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Davis, Haley",
+          "nameType": "Personal",
+          "givenName": "Haley",
+          "familyName": "Davis",
+          "affiliation": [
+            "International SeaKeepers Society",
+            "Harbor Branch Oceanographic Institute"
+          ],
+          "contributorType": "Researcher",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0009-0000-1050-223X",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Randle, Janna L.",
+          "nameType": "Personal",
+          "givenName": "Janna L.",
+          "familyName": "Randle",
+          "affiliation": [
+            "King Abdullah University of Science and Technology"
+          ],
+          "contributorType": "Researcher",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0003-1467-2505",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Doherty, Matthew",
+          "nameType": "Personal",
+          "givenName": "Matthew",
+          "familyName": "Doherty",
+          "affiliation": [
+            "University of Plymouth"
+          ],
+          "contributorType": "Researcher",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0009-0000-6259-3006",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Bruno, John",
+          "nameType": "Personal",
+          "givenName": "John",
+          "familyName": "Bruno",
+          "affiliation": [
+            "University of North Carolina at Chapel Hill"
+          ],
+          "contributorType": "Researcher",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0003-2063-4185",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2025-12-02",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.17794521",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": null,
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "Raw data files and R Markdown files are provided to correspond with analyses presented in Goodbody-Gringley et al. (2026) Fate tracking of Acropora cervicornis colonies post restorative out-planting reveals genotype-specific responses to marine heatwaves, submitted for publication to Coral Reefs. ",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI4MS9aRU5PRE8uMTc3OTQ1MjI8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkdvb2Rib2R5IEdyaW5nbGV5LCBHcmV0Y2hlbjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+R3JldGNoZW48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+R29vZGJvZHkgR3JpbmdsZXk8L2ZhbWlseU5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbiBhZmZpbGlhdGlvbklkZW50aWZpZXI9ImVkbW86MzYxNCIgYWZmaWxpYXRpb25JZGVudGlmaWVyU2NoZW1lPSJPVEhFUiI+U2FuIERpZWdvIFN0YXRlIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkphbWVzb24sIEJyZXR0PC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5CcmV0dDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5KYW1lc29uPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9IiI+MDAwMC0wMDAyLTc4MzMtMDAwNTwvbmFtZUlkZW50aWZpZXI+CiAgICAgIDxhZmZpbGlhdGlvbj5CZXJtdWRhIEluc3RpdHV0ZSBvZiBPY2VhbiBTY2llbmNlcyAoQVNVKTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkRhdGEgYW5kIGNvZGUgYXNzb2NpYXRlZCB3aXRoIEdvb2Rib2R5LUdyaW5nbGV5IGV0IGFsIDIwMjYgQ29yYWwgUmVlZnM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+WmVub2RvPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDI1PC9wdWJsaWNhdGlvblllYXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhc2V0Ii8+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+Y29yYWwgcmVzdG9yYXRpb248L3N1YmplY3Q+CiAgICA8c3ViamVjdD50aGVybWFsIHBlcmZvcm1hbmNlPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+dHJhZGUtb2Zmczwvc3ViamVjdD4KICAgIDxzdWJqZWN0PmNsaW1hdGUgcmVzaWxpZW5jZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pmdsb2JhbCB3YXJtaW5nPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+Y29yYWwgaGVhbHRoPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+Y29yYWwgYWNjbGltYXRpemF0aW9uPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IlByb2plY3RMZWFkZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+R29vZGJvZHkgR3JpbmdsZXksIEdyZXRjaGVuPC9jb250cmlidXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+R3JldGNoZW48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+R29vZGJvZHkgR3JpbmdsZXk8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDAwLTAwMDMtMzQzOS0wOTE5PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uIGFmZmlsaWF0aW9uSWRlbnRpZmllcj0iZWRtbzozNjE0IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9Ik9USEVSIj5TYW4gRGllZ28gU3RhdGUgVW5pdmVyc2l0eTwvYWZmaWxpYXRpb24+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iUHJvamVjdE1lbWJlciI+CiAgICAgIDxjb250cmlidXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5KYW1lc29uLCBCcmV0dDwvY29udHJpYnV0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkJyZXR0PC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkphbWVzb248L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDAwLTAwMDItNzgzMy0wMDA1PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPkJlcm11ZGEgSW5zdGl0dXRlIG9mIE9jZWFuIFNjaWVuY2VzIChBU1UpPC9hZmZpbGlhdGlvbj4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZXNlYXJjaGVyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkRhdmlzLCBIYWxleTwvY29udHJpYnV0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkhhbGV5PC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkRhdmlzPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9IiI+MDAwOS0wMDAwLTEwNTAtMjIzWDwvbmFtZUlkZW50aWZpZXI+CiAgICAgIDxhZmZpbGlhdGlvbj5JbnRlcm5hdGlvbmFsIFNlYUtlZXBlcnMgU29jaWV0eTwvYWZmaWxpYXRpb24+CiAgICAgIDxhZmZpbGlhdGlvbiBhZmZpbGlhdGlvbklkZW50aWZpZXI9Imh0dHBzOi8vcm9yLm9yZy8wNWd6cXl4NTkiIGFmZmlsaWF0aW9uSWRlbnRpZmllclNjaGVtZT0iUk9SIj5IYXJib3IgQnJhbmNoIE9jZWFub2dyYXBoaWMgSW5zdGl0dXRlPC9hZmZpbGlhdGlvbj4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZXNlYXJjaGVyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlJhbmRsZSwgSmFubmEgTC48L2NvbnRyaWJ1dG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5KYW5uYSBMLjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5SYW5kbGU8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDAwLTAwMDMtMTQ2Ny0yNTA1PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uIGFmZmlsaWF0aW9uSWRlbnRpZmllcj0iaHR0cHM6Ly9yb3Iub3JnLzAxcTN0YnMzOCIgYWZmaWxpYXRpb25JZGVudGlmaWVyU2NoZW1lPSJST1IiPktpbmcgQWJkdWxsYWggVW5pdmVyc2l0eSBvZiBTY2llbmNlIGFuZCBUZWNobm9sb2d5PC9hZmZpbGlhdGlvbj4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZXNlYXJjaGVyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkRvaGVydHksIE1hdHRoZXc8L2NvbnRyaWJ1dG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5NYXR0aGV3PC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkRvaGVydHk8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDA5LTAwMDAtNjI1OS0zMDA2PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uIGFmZmlsaWF0aW9uSWRlbnRpZmllcj0iZWRtbzoyOTIyIiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9Ik9USEVSIj5Vbml2ZXJzaXR5IG9mIFBseW1vdXRoPC9hZmZpbGlhdGlvbj4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZXNlYXJjaGVyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkJydW5vLCBKb2huPC9jb250cmlidXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+Sm9objwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5CcnVubzwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSIiPjAwMDAtMDAwMy0yMDYzLTQxODU8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDEzMGZyYzMzIiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiI+VW5pdmVyc2l0eSBvZiBOb3J0aCBDYXJvbGluYSBhdCBDaGFwZWwgSGlsbDwvYWZmaWxpYXRpb24+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMjUtMTItMDI8L2RhdGU+CiAgPC9kYXRlcz4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0ib2FpIj5vYWk6emVub2RvLm9yZzoxNzc5NDUyMjwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNWZXJzaW9uT2YiPjEwLjUyODEvemVub2RvLjE3Nzk0NTIxPC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8c2l6ZXMvPgogIDxmb3JtYXRzLz4KICA8dmVyc2lvbi8+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC9sZWdhbGNvZGUiIHJpZ2h0c0lkZW50aWZpZXI9ImNjLWJ5LTQuMCIgcmlnaHRzSWRlbnRpZmllclNjaGVtZT0ic3BkeCI+Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlJhdyBkYXRhIGZpbGVzIGFuZCBSIE1hcmtkb3duIGZpbGVzIGFyZSBwcm92aWRlZCB0byBjb3JyZXNwb25kIHdpdGggYW5hbHlzZXMgcHJlc2VudGVkIGluIEdvb2Rib2R5LUdyaW5nbGV5IGV0IGFsLiAoMjAyNikgRmF0ZSB0cmFja2luZyBvZiBBY3JvcG9yYSBjZXJ2aWNvcm5pcyBjb2xvbmllcyBwb3N0IHJlc3RvcmF0aXZlIG91dC1wbGFudGluZyByZXZlYWxzIGdlbm90eXBlLXNwZWNpZmljIHJlc3BvbnNlcyB0byBtYXJpbmUgaGVhdHdhdmVzLCBzdWJtaXR0ZWQgZm9yIHB1YmxpY2F0aW9uIHRvIENvcmFsIFJlZWZzLsKgPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4K",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.17794522",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 1,
+      "created": "2025-12-02T21:33:07.000Z",
+      "registered": "2025-12-02T21:33:07.000Z",
+      "published": "2025",
+      "updated": "2025-12-02T21:33:07.000Z"
+    }
+  },
+  {
+    "id": "14392687",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.14392687",
+      "prefix": "10.5281",
+      "suffix": "zenodo.14392687",
+      "identifiers": [
+        {
+          "identifier": "oai:zenodo.org:14392687",
+          "identifierType": "oai"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "oai",
+          "alternateIdentifier": "oai:zenodo.org:14392687"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Le Gall, Lucas",
+          "nameType": "Personal",
+          "givenName": "Lucas",
+          "familyName": "Le Gall",
+          "nameIdentifiers": [],
+          "affiliation": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Extirpation of Acropora cervicornis genotypes from a coral nursery during the 2023 marine heatwave undermines conservation efforts."
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2024,
+      "subjects": [],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2024-12-11",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.14392686",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": null,
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "Data sets and code to the figures and analysis of \"Extirpation of Acropora cervicornis genotypes from a coral nursery during the 2023 marine heatwave undermines conservation efforts\". ",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI4MS9aRU5PRE8uMTQzOTI2ODc8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkxlIEdhbGwsIEx1Y2FzPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5MdWNhczwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5MZSBHYWxsPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5FeHRpcnBhdGlvbiBvZiBBY3JvcG9yYSBjZXJ2aWNvcm5pcyBnZW5vdHlwZXMgZnJvbSBhIGNvcmFsIG51cnNlcnkgZHVyaW5nIHRoZSAyMDIzIG1hcmluZSBoZWF0d2F2ZSB1bmRlcm1pbmVzIGNvbnNlcnZhdGlvbiBlZmZvcnRzLjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5aZW5vZG88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMjQ8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiLz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDI0LTEyLTExPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9Im9haSI+b2FpOnplbm9kby5vcmc6MTQzOTI2ODc8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzVmVyc2lvbk9mIj4xMC41MjgxL3plbm9kby4xNDM5MjY4NjwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzLz4KICA8Zm9ybWF0cy8+CiAgPHZlcnNpb24vPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvbGVnYWxjb2RlIiByaWdodHNJZGVudGlmaWVyPSJjYy1ieS00LjAiIHJpZ2h0c0lkZW50aWZpZXJTY2hlbWU9InNwZHgiPkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gNC4wIEludGVybmF0aW9uYWw8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5EYXRhIHNldHMgYW5kIGNvZGUgdG8gdGhlIGZpZ3VyZXMgYW5kIGFuYWx5c2lzIG9mICJFeHRpcnBhdGlvbiBvZiBBY3JvcG9yYSBjZXJ2aWNvcm5pcyBnZW5vdHlwZXMgZnJvbSBhIGNvcmFsIG51cnNlcnkgZHVyaW5nIHRoZSAyMDIzIG1hcmluZSBoZWF0d2F2ZSB1bmRlcm1pbmVzIGNvbnNlcnZhdGlvbiBlZmZvcnRzIi7CoDwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+Cg==",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.14392687",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 1,
+      "created": "2024-12-11T15:56:45.000Z",
+      "registered": "2024-12-11T15:56:46.000Z",
+      "published": "2024",
+      "updated": "2024-12-11T15:56:47.000Z"
+    }
+  },
+  {
+    "id": "14889221",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.14889221",
+      "prefix": "10.5281",
+      "suffix": "zenodo.14889221",
+      "identifiers": [
+        {
+          "identifier": "oai:zenodo.org:14889221",
+          "identifierType": "oai"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "oai",
+          "alternateIdentifier": "oai:zenodo.org:14889221"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Goodbody-Gringley, Gretchen",
+          "nameType": "Personal",
+          "givenName": "Gretchen",
+          "familyName": "Goodbody-Gringley",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0003-3439-0919",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ],
+          "affiliation": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Mesophotic reefs offer thermal refuge to the 2023 Caribbean mass bleaching event in the Cayman Islands"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2025,
+      "subjects": [
+        {
+          "subject": "mesophotic"
+        },
+        {
+          "subject": "coral bleaching"
+        },
+        {
+          "subject": "Coral Bleaching",
+          "subjectScheme": "MeSH"
+        },
+        {
+          "subject": "thermal refuge"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Chequer, Alex",
+          "nameType": "Personal",
+          "givenName": "Alex",
+          "familyName": "Chequer",
+          "contributorType": "DataCollector",
+          "nameIdentifiers": [],
+          "affiliation": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2025-03-18",
+          "dateType": "Issued"
+        },
+        {
+          "date": "2023-09-16",
+          "dateType": "Collected"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.14889220",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsPartOf",
+          "relatedIdentifier": "2045-2322",
+          "resourceTypeGeneral": "Collection",
+          "relatedIdentifierType": "ISSN"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": null,
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "Included are the raw data for vertical bleaching surveys that took place in Little Cayman Island, Cayman Islands, on September 16, 2023. Surveys were conducted on a shear vertical wall in the Bloody Bay Marine Park from 10m to 50m depth. All corals observed within 1m of either side of the transect tape were identified to species and assigned a health status (Bleached, Pale, or Healthy). Temperature along the vertical gradients was measured continuously with HoboProV temperature loggers. Code for data analysis included in submitted manuscript is also included. ",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [
+        {
+          "awardTitle": "NSF-BSF: Assessing the mechanisms of molecular and morphological adaptation by corals to extreme environments",
+          "funderName": "U.S. National Science Foundation",
+          "awardNumber": "1937770",
+          "funderIdentifier": "10.13039/100000001",
+          "funderIdentifierType": "Crossref Funder ID"
+        }
+      ],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI4MS9aRU5PRE8uMTQ4ODkyMjE8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkdvb2Rib2R5LUdyaW5nbGV5LCBHcmV0Y2hlbjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+R3JldGNoZW48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+R29vZGJvZHktR3JpbmdsZXk8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDAwLTAwMDMtMzQzOS0wOTE5PC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+TWVzb3Bob3RpYyByZWVmcyBvZmZlciB0aGVybWFsIHJlZnVnZSB0byB0aGUgMjAyMyBDYXJpYmJlYW4gbWFzcyBibGVhY2hpbmcgZXZlbnQgaW4gdGhlIENheW1hbiBJc2xhbmRzPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlplbm9kbzwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAyNTwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCIvPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0Pm1lc29waG90aWM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5jb3JhbCBibGVhY2hpbmc8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJNZVNIIj5Db3JhbCBCbGVhY2hpbmc8L3N1YmplY3Q+CiAgICA8c3ViamVjdD50aGVybWFsIHJlZnVnZTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxjb250cmlidXRvcnM+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJEYXRhQ29sbGVjdG9yIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkNoZXF1ZXIsIEFsZXg8L2NvbnRyaWJ1dG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5BbGV4PC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkNoZXF1ZXI8L2ZhbWlseU5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMjUtMDMtMTg8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ29sbGVjdGVkIj4yMDIzLTA5LTE2PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9Im9haSI+b2FpOnplbm9kby5vcmc6MTQ4ODkyMjE8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzVmVyc2lvbk9mIj4xMC41MjgxL3plbm9kby4xNDg4OTIyMDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJJU1NOIiByZWxhdGlvblR5cGU9IklzUGFydE9mIiByZXNvdXJjZVR5cGVHZW5lcmFsPSJDb2xsZWN0aW9uIj4yMDQ1LTIzMjI8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxzaXplcy8+CiAgPGZvcm1hdHMvPgogIDx2ZXJzaW9uLz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wL2xlZ2FsY29kZSIgcmlnaHRzSWRlbnRpZmllcj0iY2MtYnktNC4wIiByaWdodHNJZGVudGlmaWVyU2NoZW1lPSJzcGR4Ij5DcmVhdGl2ZSBDb21tb25zIEF0dHJpYnV0aW9uIDQuMCBJbnRlcm5hdGlvbmFsPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+SW5jbHVkZWQgYXJlIHRoZSByYXcgZGF0YSBmb3IgdmVydGljYWwgYmxlYWNoaW5nIHN1cnZleXMgdGhhdCB0b29rIHBsYWNlIGluIExpdHRsZSBDYXltYW4gSXNsYW5kLCBDYXltYW4gSXNsYW5kcywgb24gU2VwdGVtYmVyIDE2LCAyMDIzLiBTdXJ2ZXlzIHdlcmUgY29uZHVjdGVkIG9uIGEgc2hlYXIgdmVydGljYWwgd2FsbCBpbiB0aGUgQmxvb2R5IEJheSBNYXJpbmUgUGFyayBmcm9tIDEwbSB0byA1MG0gZGVwdGguIEFsbCBjb3JhbHMgb2JzZXJ2ZWQgd2l0aGluIDFtIG9mIGVpdGhlciBzaWRlIG9mIHRoZSB0cmFuc2VjdCB0YXBlIHdlcmUgaWRlbnRpZmllZCB0byBzcGVjaWVzIGFuZCBhc3NpZ25lZCBhIGhlYWx0aCBzdGF0dXMgKEJsZWFjaGVkLCBQYWxlLCBvciBIZWFsdGh5KS4gVGVtcGVyYXR1cmUgYWxvbmcgdGhlIHZlcnRpY2FsIGdyYWRpZW50cyB3YXMgbWVhc3VyZWQgY29udGludW91c2x5IHdpdGggSG9ib1Byb1YgdGVtcGVyYXR1cmUgbG9nZ2Vycy4gQ29kZSBmb3IgZGF0YSBhbmFseXNpcyBpbmNsdWRlZCBpbiBzdWJtaXR0ZWQgbWFudXNjcmlwdCBpcyBhbHNvIGluY2x1ZGVkLsKgPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8ZnVuZGluZ1JlZmVyZW5jZXM+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+VS5TLiBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb248L2Z1bmRlck5hbWU+CiAgICAgIDxmdW5kZXJJZGVudGlmaWVyIGZ1bmRlcklkZW50aWZpZXJUeXBlPSJDcm9zc3JlZiBGdW5kZXIgSUQiPjEwLjEzMDM5LzEwMDAwMDAwMTwvZnVuZGVySWRlbnRpZmllcj4KICAgICAgPGF3YXJkTnVtYmVyPjE5Mzc3NzA8L2F3YXJkTnVtYmVyPgogICAgICA8YXdhcmRUaXRsZT5OU0YtQlNGOiBBc3Nlc3NpbmcgdGhlIG1lY2hhbmlzbXMgb2YgbW9sZWN1bGFyIGFuZCBtb3JwaG9sb2dpY2FsIGFkYXB0YXRpb24gYnkgY29yYWxzIHRvIGV4dHJlbWUgZW52aXJvbm1lbnRzPC9hd2FyZFRpdGxlPgogICAgPC9mdW5kaW5nUmVmZXJlbmNlPgogIDwvZnVuZGluZ1JlZmVyZW5jZXM+CjwvcmVzb3VyY2U+Cg==",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.14889221",
+      "contentUrl": null,
+      "metadataVersion": 1,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 1,
+      "created": "2025-02-18T19:08:29.000Z",
+      "registered": "2025-02-18T19:08:30.000Z",
+      "published": "2025",
+      "updated": "2025-05-29T20:44:21.000Z"
+    }
+  },
+  {
+    "id": "15057987",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.15057987",
+      "prefix": "10.5281",
+      "suffix": "zenodo.15057987",
+      "identifiers": [
+        {
+          "identifier": "oai:zenodo.org:15057987",
+          "identifierType": "oai"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "oai",
+          "alternateIdentifier": "oai:zenodo.org:15057987"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Doherty, Matthew",
+          "nameType": "Personal",
+          "givenName": "Matthew",
+          "familyName": "Doherty",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0009-0000-6259-3006",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ],
+          "affiliation": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Data for: Widespread coral bleaching and mass mortality during the 2023 marine heatwave in Little Cayman"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2025,
+      "subjects": [],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2025-03-20",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.15057986",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": null,
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI4MS9aRU5PRE8uMTUwNTc5ODc8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkRvaGVydHksIE1hdHRoZXc8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPk1hdHRoZXc8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+RG9oZXJ0eTwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSIiPjAwMDktMDAwMC02MjU5LTMwMDY8L25hbWVJZGVudGlmaWVyPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5EYXRhIGZvcjogV2lkZXNwcmVhZCBjb3JhbCBibGVhY2hpbmcgYW5kIG1hc3MgbW9ydGFsaXR5IGR1cmluZyB0aGUgMjAyMyBtYXJpbmUgaGVhdHdhdmUgaW4gTGl0dGxlIENheW1hbjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5aZW5vZG88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMjU8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiLz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDI1LTAzLTIwPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9Im9haSI+b2FpOnplbm9kby5vcmc6MTUwNTc5ODc8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzVmVyc2lvbk9mIj4xMC41MjgxL3plbm9kby4xNTA1Nzk4NjwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzLz4KICA8Zm9ybWF0cy8+CiAgPHZlcnNpb24vPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvbGVnYWxjb2RlIiByaWdodHNJZGVudGlmaWVyPSJjYy1ieS00LjAiIHJpZ2h0c0lkZW50aWZpZXJTY2hlbWU9InNwZHgiPkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gNC4wIEludGVybmF0aW9uYWw8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CjwvcmVzb3VyY2U+Cg==",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.15057987",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 1,
+      "created": "2025-03-27T19:03:22.000Z",
+      "registered": "2025-03-27T19:03:23.000Z",
+      "published": "2025",
+      "updated": "2025-03-27T19:22:40.000Z"
+    }
+  },
+  {
+    "id": "15057986",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.15057986",
+      "prefix": "10.5281",
+      "suffix": "zenodo.15057986",
+      "identifiers": [],
+      "alternateIdentifiers": [],
+      "creators": [
+        {
+          "name": "Doherty, Matthew",
+          "nameType": "Personal",
+          "givenName": "Matthew",
+          "familyName": "Doherty",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0009-0000-6259-3006",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ],
+          "affiliation": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Data for: Widespread coral bleaching and mass mortality during the 2023 marine heatwave in Little Cayman"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2025,
+      "subjects": [],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2025-03-20",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "HasVersion",
+          "relatedIdentifier": "10.5281/zenodo.15057987",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": null,
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI4MS9aRU5PRE8uMTUwNTc5ODY8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkRvaGVydHksIE1hdHRoZXc8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPk1hdHRoZXc8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+RG9oZXJ0eTwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSIiPjAwMDktMDAwMC02MjU5LTMwMDY8L25hbWVJZGVudGlmaWVyPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5EYXRhIGZvcjogV2lkZXNwcmVhZCBjb3JhbCBibGVhY2hpbmcgYW5kIG1hc3MgbW9ydGFsaXR5IGR1cmluZyB0aGUgMjAyMyBtYXJpbmUgaGVhdHdhdmUgaW4gTGl0dGxlIENheW1hbjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5aZW5vZG88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMjU8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiLz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDI1LTAzLTIwPC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJIYXNWZXJzaW9uIj4xMC41MjgxL3plbm9kby4xNTA1Nzk4NzwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzLz4KICA8Zm9ybWF0cy8+CiAgPHZlcnNpb24vPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvbGVnYWxjb2RlIiByaWdodHNJZGVudGlmaWVyPSJjYy1ieS00LjAiIHJpZ2h0c0lkZW50aWZpZXJTY2hlbWU9InNwZHgiPkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gNC4wIEludGVybmF0aW9uYWw8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CjwvcmVzb3VyY2U+Cg==",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.15057986",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 1,
+      "versionOfCount": 0,
+      "created": "2025-03-27T19:03:22.000Z",
+      "registered": "2025-03-27T19:03:23.000Z",
+      "published": "2025",
+      "updated": "2025-03-27T19:22:40.000Z"
+    }
+  },
+  {
+    "id": "10055775",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.10055775",
+      "prefix": "10.5281",
+      "suffix": "zenodo.10055775",
+      "identifiers": [
+        {
+          "identifier": "oai:zenodo.org:10055775",
+          "identifierType": "oai"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "oai",
+          "alternateIdentifier": "oai:zenodo.org:10055775"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Goodbody Gringley, Gretchen",
+          "nameType": "Personal",
+          "givenName": "Gretchen",
+          "familyName": "Goodbody Gringley",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0003-3439-0919",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ],
+          "affiliation": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Natural variation in colony orientation facilitates adaptive physiology of the coral Madracis pharensis in the Eastern Mediterranean"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2023,
+      "subjects": [],
+      "contributors": [
+        {
+          "name": "Mass, Tali",
+          "nameType": "Personal",
+          "givenName": "Tali",
+          "familyName": "Mass",
+          "contributorType": "Researcher",
+          "nameIdentifiers": [],
+          "affiliation": []
+        },
+        {
+          "name": "Martinez, Stephane",
+          "nameType": "Personal",
+          "givenName": "Stephane",
+          "familyName": "Martinez",
+          "contributorType": "Researcher",
+          "nameIdentifiers": [],
+          "affiliation": []
+        },
+        {
+          "name": "Bellworthy, Jessica",
+          "nameType": "Personal",
+          "givenName": "Jessica",
+          "familyName": "Bellworthy",
+          "affiliation": [
+            "Bar Ilan University Mina and Everard Goodman Faculty of Life Sciences"
+          ],
+          "contributorType": "Researcher",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0003-2674-2750",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Chequer, Alex",
+          "nameType": "Personal",
+          "givenName": "Alex",
+          "familyName": "Chequer",
+          "contributorType": "Researcher",
+          "nameIdentifiers": [],
+          "affiliation": []
+        },
+        {
+          "name": "Nativ, Hagai",
+          "nameType": "Personal",
+          "givenName": "Hagai",
+          "familyName": "Nativ",
+          "contributorType": "Researcher",
+          "nameIdentifiers": [],
+          "affiliation": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2023-10-30",
+          "dateType": "Issued"
+        },
+        {
+          "date": "2023-10-30",
+          "dateType": "Submitted"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "JOUR",
+        "bibtex": "article",
+        "citeproc": "article-journal",
+        "schemaOrg": "ScholarlyArticle",
+        "resourceType": "",
+        "resourceTypeGeneral": "JournalArticle"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.10055774",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": null,
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "The distribution of symbiotic scleractinian corals is driven, in part, by light availability, as host energy demands are partially met through translocation of photosynthate. Physiological plasticity in response to environmental conditions, such as light, enables expansion of distribution and resilience to changing conditions. Here we provide the data and the code used to compare the physiology, morphology, and molecular fingerprint of individual Madracis pharensis corals exposed to dramatically different light conditions based on colony orientation on the surface of a shipwreck at 30m depth in the Bay of Haifa, Israel. We found significant differences in symbiont species consortia, photophysiology, and stable isotopes, suggesting that these corals can adjust their metabolic physiology in response to light availability. These results highlight the potential of corals to switch to a predominantly heterotrophic diet when light availability and/or symbiont densities are too low to sustain sufficient photosynthesis, which may provide resilience for corals in the face of climate change. ",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [
+        {
+          "awardTitle": "NSF-BSF: Assessing the mechanisms of molecular and morphological adaptation by corals to extreme environments",
+          "funderName": "National Science Foundation",
+          "awardNumber": "1937770",
+          "funderIdentifier": "021nxhr62",
+          "funderIdentifierType": "ROR"
+        }
+      ],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI4MS9aRU5PRE8uMTAwNTU3NzU8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkdvb2Rib2R5IEdyaW5nbGV5LCBHcmV0Y2hlbjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+R3JldGNoZW48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+R29vZGJvZHkgR3JpbmdsZXk8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDAwLTAwMDMtMzQzOS0wOTE5PC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+TmF0dXJhbCB2YXJpYXRpb24gaW4gY29sb255IG9yaWVudGF0aW9uIGZhY2lsaXRhdGVzIGFkYXB0aXZlIHBoeXNpb2xvZ3kgb2YgdGhlIGNvcmFsIE1hZHJhY2lzIHBoYXJlbnNpcyBpbiB0aGUgRWFzdGVybiBNZWRpdGVycmFuZWFuPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlplbm9kbzwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAyMzwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iSm91cm5hbEFydGljbGUiLz4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iUmVzZWFyY2hlciI+CiAgICAgIDxjb250cmlidXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5NYXNzLCBUYWxpPC9jb250cmlidXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+VGFsaTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5NYXNzPC9mYW1pbHlOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IlJlc2VhcmNoZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TWFydGluZXosIFN0ZXBoYW5lPC9jb250cmlidXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+U3RlcGhhbmU8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+TWFydGluZXo8L2ZhbWlseU5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iUmVzZWFyY2hlciI+CiAgICAgIDxjb250cmlidXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5CZWxsd29ydGh5LCBKZXNzaWNhPC9jb250cmlidXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+SmVzc2ljYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5CZWxsd29ydGh5PC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9IiI+MDAwMC0wMDAzLTI2NzQtMjc1MDwvbmFtZUlkZW50aWZpZXI+CiAgICAgIDxhZmZpbGlhdGlvbj5CYXIgSWxhbiBVbml2ZXJzaXR5IE1pbmEgYW5kIEV2ZXJhcmQgR29vZG1hbiBGYWN1bHR5IG9mIExpZmUgU2NpZW5jZXM8L2FmZmlsaWF0aW9uPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IlJlc2VhcmNoZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+Q2hlcXVlciwgQWxleDwvY29udHJpYnV0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkFsZXg8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+Q2hlcXVlcjwvZmFtaWx5TmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZXNlYXJjaGVyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPk5hdGl2LCBIYWdhaTwvY29udHJpYnV0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkhhZ2FpPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPk5hdGl2PC9mYW1pbHlOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDIzLTEwLTMwPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IlN1Ym1pdHRlZCI+MjAyMy0xMC0zMDwvZGF0ZT4KICA8L2RhdGVzPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJvYWkiPm9haTp6ZW5vZG8ub3JnOjEwMDU1Nzc1PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1ZlcnNpb25PZiI+MTAuNTI4MS96ZW5vZG8uMTAwNTU3NzQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxzaXplcy8+CiAgPGZvcm1hdHMvPgogIDx2ZXJzaW9uLz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wL2xlZ2FsY29kZSIgcmlnaHRzSWRlbnRpZmllcj0iY2MtYnktNC4wIiByaWdodHNJZGVudGlmaWVyU2NoZW1lPSJzcGR4Ij5DcmVhdGl2ZSBDb21tb25zIEF0dHJpYnV0aW9uIDQuMCBJbnRlcm5hdGlvbmFsPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+VGhlIGRpc3RyaWJ1dGlvbiBvZiBzeW1iaW90aWMgc2NsZXJhY3RpbmlhbiBjb3JhbHMgaXMgZHJpdmVuLCBpbiBwYXJ0LCBieSBsaWdodCBhdmFpbGFiaWxpdHksIGFzIGhvc3QgZW5lcmd5IGRlbWFuZHMgYXJlIHBhcnRpYWxseSBtZXQgdGhyb3VnaCB0cmFuc2xvY2F0aW9uIG9mIHBob3Rvc3ludGhhdGUuIFBoeXNpb2xvZ2ljYWwgcGxhc3RpY2l0eSBpbiByZXNwb25zZSB0byBlbnZpcm9ubWVudGFsIGNvbmRpdGlvbnMsIHN1Y2ggYXMgbGlnaHQsIGVuYWJsZXMgZXhwYW5zaW9uIG9mIGRpc3RyaWJ1dGlvbiBhbmQgcmVzaWxpZW5jZSB0byBjaGFuZ2luZyBjb25kaXRpb25zLiBIZXJlIHdlIHByb3ZpZGUgdGhlIGRhdGEgYW5kIHRoZSBjb2RlIHVzZWQgdG8gY29tcGFyZSB0aGUgcGh5c2lvbG9neSwgbW9ycGhvbG9neSwgYW5kIG1vbGVjdWxhciBmaW5nZXJwcmludCBvZiBpbmRpdmlkdWFsIE1hZHJhY2lzIHBoYXJlbnNpcyBjb3JhbHMgZXhwb3NlZCB0byBkcmFtYXRpY2FsbHkgZGlmZmVyZW50IGxpZ2h0IGNvbmRpdGlvbnMgYmFzZWQgb24gY29sb255IG9yaWVudGF0aW9uIG9uIHRoZSBzdXJmYWNlIG9mIGEgc2hpcHdyZWNrIGF0IDMwbSBkZXB0aCBpbiB0aGUgQmF5IG9mIEhhaWZhLCBJc3JhZWwuIFdlIGZvdW5kIHNpZ25pZmljYW50IGRpZmZlcmVuY2VzIGluIHN5bWJpb250IHNwZWNpZXMgY29uc29ydGlhLCBwaG90b3BoeXNpb2xvZ3ksIGFuZCBzdGFibGUgaXNvdG9wZXMsIHN1Z2dlc3RpbmcgdGhhdCB0aGVzZSBjb3JhbHMgY2FuIGFkanVzdCB0aGVpciBtZXRhYm9saWMgcGh5c2lvbG9neSBpbiByZXNwb25zZSB0byBsaWdodCBhdmFpbGFiaWxpdHkuIFRoZXNlIHJlc3VsdHMgaGlnaGxpZ2h0IHRoZSBwb3RlbnRpYWwgb2YgY29yYWxzIHRvIHN3aXRjaCB0byBhIHByZWRvbWluYW50bHkgaGV0ZXJvdHJvcGhpYyBkaWV0IHdoZW4gbGlnaHQgYXZhaWxhYmlsaXR5IGFuZC9vciBzeW1iaW9udCBkZW5zaXRpZXMgYXJlIHRvbyBsb3cgdG8gc3VzdGFpbiBzdWZmaWNpZW50IHBob3Rvc3ludGhlc2lzLCB3aGljaCBtYXkgcHJvdmlkZSByZXNpbGllbmNlIGZvciBjb3JhbHMgaW4gdGhlIGZhY2Ugb2YgY2xpbWF0ZSBjaGFuZ2UuwqA8L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxmdW5kaW5nUmVmZXJlbmNlcz4KICAgIDxmdW5kaW5nUmVmZXJlbmNlPgogICAgICA8ZnVuZGVyTmFtZT5OYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb248L2Z1bmRlck5hbWU+CiAgICAgIDxmdW5kZXJJZGVudGlmaWVyIGZ1bmRlcklkZW50aWZpZXJUeXBlPSJST1IiPjAyMW54aHI2MjwvZnVuZGVySWRlbnRpZmllcj4KICAgICAgPGF3YXJkTnVtYmVyPjE5Mzc3NzA8L2F3YXJkTnVtYmVyPgogICAgICA8YXdhcmRUaXRsZT5OU0YtQlNGOiBBc3Nlc3NpbmcgdGhlIG1lY2hhbmlzbXMgb2YgbW9sZWN1bGFyIGFuZCBtb3JwaG9sb2dpY2FsIGFkYXB0YXRpb24gYnkgY29yYWxzIHRvIGV4dHJlbWUgZW52aXJvbm1lbnRzPC9hd2FyZFRpdGxlPgogICAgPC9mdW5kaW5nUmVmZXJlbmNlPgogIDwvZnVuZGluZ1JlZmVyZW5jZXM+CjwvcmVzb3VyY2U+Cg==",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.10055775",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 0,
+      "created": "2023-10-30T19:29:59.000Z",
+      "registered": "2023-10-30T19:29:59.000Z",
+      "published": "2023",
+      "updated": "2023-10-30T19:29:59.000Z"
+    }
+  },
+  {
+    "id": "6518135",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.6518135",
+      "prefix": "10.5281",
+      "suffix": "zenodo.6518135",
+      "identifiers": [],
+      "alternateIdentifiers": [],
+      "creators": [
+        {
+          "name": "Carpenter, Gaby E",
+          "givenName": "Gaby E",
+          "familyName": "Carpenter",
+          "nameIdentifiers": [
+            {
+              "schemeUri": "https://orcid.org",
+              "nameIdentifier": "https://orcid.org/0000-0003-4956-6569",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ],
+          "affiliation": []
+        },
+        {
+          "name": "Chequer, Alex D",
+          "givenName": "Alex D",
+          "familyName": "Chequer",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Weber, Sabrina",
+          "givenName": "Sabrina",
+          "familyName": "Weber",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Mass, Tali",
+          "givenName": "Tali",
+          "familyName": "Mass",
+          "nameIdentifiers": [
+            {
+              "schemeUri": "https://orcid.org",
+              "nameIdentifier": "https://orcid.org/0000-0002-7298-290X",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ],
+          "affiliation": []
+        },
+        {
+          "name": "Goodbody-Gringley, Gretchen",
+          "givenName": "Gretchen",
+          "familyName": "Goodbody-Gringley",
+          "nameIdentifiers": [
+            {
+              "schemeUri": "https://orcid.org",
+              "nameIdentifier": "https://orcid.org/0000-0003-3439-0919",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ],
+          "affiliation": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Light and photoacclimatization drive distinct differences between shallow and mesophotic coral communities"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2022,
+      "subjects": [],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2022-05-04",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.5500388",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": "2",
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Open Access",
+          "rightsUri": "info:eu-repo/semantics/openAccess"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "This data repository contains the raw data (.csv files) and R code (.Rmd and .htlm) used in the analysis for \"Light and photoacclimatization drive distinct differences between shallow and mesophotic coral communities\".",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy42NTE4MTM1PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Q2FycGVudGVyLCBHYWJ5IEU8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkdhYnkgRTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5DYXJwZW50ZXI8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMy00OTU2LTY1Njk8L25hbWVJZGVudGlmaWVyPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5DaGVxdWVyLCBBbGV4IEQ8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkFsZXggRDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5DaGVxdWVyPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5XZWJlciwgU2FicmluYTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+U2FicmluYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5XZWJlcjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TWFzcywgVGFsaTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+VGFsaTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5NYXNzPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDItNzI5OC0yOTBYPC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R29vZGJvZHktR3JpbmdsZXksIEdyZXRjaGVuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5HcmV0Y2hlbjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5Hb29kYm9keS1HcmluZ2xleTwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSJodHRwOi8vb3JjaWQub3JnLyI+MDAwMC0wMDAzLTM0MzktMDkxOTwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkxpZ2h0IGFuZCBwaG90b2FjY2xpbWF0aXphdGlvbiBkcml2ZSBkaXN0aW5jdCBkaWZmZXJlbmNlcyBiZXR3ZWVuIHNoYWxsb3cgYW5kIG1lc29waG90aWMgY29yYWwgY29tbXVuaXRpZXM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+WmVub2RvPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDIyPC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAyMi0wNS0wNDwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCIvPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmwiPmh0dHBzOi8vemVub2RvLm9yZy9yZWNvcmQvNjUxODEzNTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNWZXJzaW9uT2YiPjEwLjUyODEvemVub2RvLjU1MDAzODg8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDx2ZXJzaW9uPjI8L3ZlcnNpb24+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC9sZWdhbGNvZGUiPkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gNC4wIEludGVybmF0aW9uYWw8L3JpZ2h0cz4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJpbmZvOmV1LXJlcG8vc2VtYW50aWNzL29wZW5BY2Nlc3MiPk9wZW4gQWNjZXNzPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Jmx0O3AmZ3Q7VGhpcyBkYXRhIHJlcG9zaXRvcnkgY29udGFpbnMgdGhlIHJhdyBkYXRhICguY3N2IGZpbGVzKSBhbmQgUiBjb2RlICguUm1kIGFuZCZhbXA7bmJzcDsuaHRsbSkgdXNlZCBpbiB0aGUgYW5hbHlzaXMgZm9yICZhbXA7cXVvdDtMaWdodCBhbmQgcGhvdG9hY2NsaW1hdGl6YXRpb24gZHJpdmUgZGlzdGluY3QgZGlmZmVyZW5jZXMgYmV0d2VlbiBzaGFsbG93IGFuZCBtZXNvcGhvdGljIGNvcmFsIGNvbW11bml0aWVzJmFtcDtxdW90Oy4mYW1wO25ic3A7Jmx0Oy9wJmd0OzwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+",
+      "url": "https://zenodo.org/record/6518135",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "mds",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 1,
+      "created": "2022-05-04T15:31:32.000Z",
+      "registered": "2022-05-04T15:31:33.000Z",
+      "published": "2022",
+      "updated": "2022-05-04T15:31:33.000Z"
+    }
+  },
+  {
+    "id": "7802849",
+    "status": 200,
+    "metadata": {
+      "doi": "10.5281/zenodo.7802849",
+      "prefix": "10.5281",
+      "suffix": "zenodo.7802849",
+      "identifiers": [],
+      "alternateIdentifiers": [],
+      "creators": [
+        {
+          "name": "Brown, Anya",
+          "nameType": "Personal",
+          "givenName": "Anya",
+          "familyName": "Brown",
+          "affiliation": [],
+          "nameIdentifiers": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "anyabrown/SchulDiseaseAcervicornis: Schul PeerJ 2023"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2023,
+      "subjects": [],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2023-04-05",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "COMP",
+        "bibtex": "misc",
+        "citeproc": "article",
+        "schemaOrg": "SoftwareSourceCode",
+        "resourceTypeGeneral": "Software"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "https://github.com/anyabrown/SchulDiseaseAcervicornis/tree/Schul2023",
+          "relatedIdentifierType": "URL"
+        },
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.7802848",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": "Schul2023",
+      "rightsList": [
+        {
+          "rights": "Open Access",
+          "rightsUri": "info:eu-repo/semantics/openAccess"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "Code associated with Schul et al. 2023 in PeerJ: Concordance of microbial and visual health indicators of white-band disease in nursery reared Caribbean coral Acropora cervicornis. Code is for dada2 processing of sequence data and use of phyloseq and vegan to analyze and visualize microbial community differences in healthy and diseased tissues of Acropora cervicornis with white band disease. We also compared healthy coral samples between 2017-2019. Raw sequence files are in the NCBI SRA database under bioprojects: PRJNA679809 and PRJNA308473",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy43ODAyODQ5PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QW55YSBCcm93bjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPmFueWFicm93bi9TY2h1bERpc2Vhc2VBY2Vydmljb3JuaXM6IFNjaHVsIFBlZXJKIDIwMjM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+WmVub2RvPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDIzPC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAyMy0wNC0wNTwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iU29mdHdhcmUiLz4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0idXJsIj5odHRwczovL3plbm9kby5vcmcvcmVjb3JkLzc4MDI4NDk8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iVVJMIiByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIj5odHRwczovL2dpdGh1Yi5jb20vYW55YWJyb3duL1NjaHVsRGlzZWFzZUFjZXJ2aWNvcm5pcy90cmVlL1NjaHVsMjAyMzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNWZXJzaW9uT2YiPjEwLjUyODEvemVub2RvLjc4MDI4NDg8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDx2ZXJzaW9uPlNjaHVsMjAyMzwvdmVyc2lvbj4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJpbmZvOmV1LXJlcG8vc2VtYW50aWNzL29wZW5BY2Nlc3MiPk9wZW4gQWNjZXNzPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Jmx0O3AmZ3Q7Q29kZSBhc3NvY2lhdGVkIHdpdGggU2NodWwgZXQgYWwuIDIwMjMgaW4gUGVlcko6IENvbmNvcmRhbmNlIG9mIG1pY3JvYmlhbCBhbmQgdmlzdWFsIGhlYWx0aCBpbmRpY2F0b3JzIG9mIHdoaXRlLWJhbmQgZGlzZWFzZSBpbiBudXJzZXJ5IHJlYXJlZCBDYXJpYmJlYW4gY29yYWwgQWNyb3BvcmEgY2Vydmljb3JuaXMuJmx0Oy9wJmd0OwombHQ7cCZndDtDb2RlIGlzIGZvciBkYWRhMiBwcm9jZXNzaW5nIG9mIHNlcXVlbmNlIGRhdGEgYW5kIHVzZSBvZiBwaHlsb3NlcSBhbmQgdmVnYW4gdG8gYW5hbHl6ZSBhbmQgdmlzdWFsaXplIG1pY3JvYmlhbCBjb21tdW5pdHkgZGlmZmVyZW5jZXMgaW4gaGVhbHRoeSBhbmQgZGlzZWFzZWQgdGlzc3VlcyBvZiBBY3JvcG9yYSBjZXJ2aWNvcm5pcyB3aXRoIHdoaXRlIGJhbmQgZGlzZWFzZS4gV2UgYWxzbyBjb21wYXJlZCBoZWFsdGh5IGNvcmFsIHNhbXBsZXMgYmV0d2VlbiAyMDE3LTIwMTkuJmx0Oy9wJmd0OwombHQ7cCZndDtSYXcgc2VxdWVuY2UgZmlsZXMgYXJlIGluIHRoZSBOQ0JJIFNSQSBkYXRhYmFzZSB1bmRlciBiaW9wcm9qZWN0czogUFJKTkE2Nzk4MDkgYW5kIFBSSk5BMzA4NDczJmx0Oy9wJmd0OzwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+",
+      "url": "https://zenodo.org/record/7802849",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "mds",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 0,
+      "created": "2023-04-05T15:40:51.000Z",
+      "registered": "2023-04-05T15:40:51.000Z",
+      "published": "2023",
+      "updated": "2023-04-05T15:40:51.000Z"
+    }
+  }
+]

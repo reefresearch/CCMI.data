@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "ccmi-reference-lc-moorings-2023",
+  "name": "Little Cayman public moorings — DoE 2023",
+  "description": "Public Department of Environment inventory of 65 Little Cayman mooring sites, with names, GPS coordinates, depth, pin count, aspect and source MPA designation.",
+  "creator": {
+    "@type": "GovernmentOrganization",
+    "name": "Cayman Islands Department of Environment"
+  },
+  "version": "2023-01",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-reference-lc-moorings-2023.html",
+  "isBasedOn": "https://doe.ky/resources/public-moorings/",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Little Cayman, Cayman Islands",
+    "geo": {
+      "@type": "GeoShape",
+      "box": "19.653 -80.111817 19.7096 -80.0079"
+    }
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://ccmi-research-data.g-roff.chatgpt.site/files/LITTLE-CAYMAN-PUBLIC-MOORINGS-2023.xlsx",
+      "encodingFormat": "XLSX"
+    },
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://ccmi-research-data.g-roff.chatgpt.site/data/little-cayman-public-moorings-2023.csv",
+      "encodingFormat": "CSV"
+    },
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://ccmi-research-data.g-roff.chatgpt.site/data/little-cayman-public-moorings-2023.geojson",
+      "encodingFormat": "GEOJSON"
+    }
+  ],
+  "keywords": [
+    "Human pressures & management"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "human-pressures-management",
+      "name": "Human pressures & management",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

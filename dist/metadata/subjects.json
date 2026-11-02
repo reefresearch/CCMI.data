@@ -1,0 +1,38 @@
+{
+  "id": "ccmi-subjects",
+  "version": "1.0.0",
+  "status": "CCMI browsing vocabulary; steward review pending",
+  "note": "Locally defined subjects, not asserted GCMD equivalents. Subjects may overlap. File assignments use repository context and filename rules; code and documentation inherit study subjects. No scientific content audit is implied.",
+  "subjects": [
+    {
+      "id": "environmental-conditions",
+      "label": "Environmental conditions",
+      "definition": "Temperature, light and heat-stress observations."
+    },
+    {
+      "id": "biodiversity-communities",
+      "label": "Biodiversity & communities",
+      "definition": "Species abundance, benthic composition and recruitment."
+    },
+    {
+      "id": "physiology-performance",
+      "label": "Physiology & performance",
+      "definition": "Growth, photosynthesis, respiration and thermal performance."
+    },
+    {
+      "id": "microbiology-molecular",
+      "label": "Microbiology & molecular data",
+      "definition": "Microbiomes, molecular tables and sequence reads."
+    },
+    {
+      "id": "coral-health-restoration",
+      "label": "Coral health & restoration",
+      "definition": "Bleaching, disease, nurseries and outplanting."
+    },
+    {
+      "id": "human-pressures-management",
+      "label": "Human pressures & management",
+      "definition": "Human activity, protection status and management comparisons."
+    }
+  ]
+}

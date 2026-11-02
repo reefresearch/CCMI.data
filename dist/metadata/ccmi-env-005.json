@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "ccmi-env-005",
+  "name": "ICON 26 m — temperature & light · Apr–Oct",
+  "description": "Logger observations labelled ICON at nominal 26 m. The populated observation rows span 2026-04-24 to 2026-10-23, with 17,479 timestamped records and a modal sampling interval of 15 minutes. Deployment location and quality control require steward review.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-env-005.html",
+  "version": "0.1.0-draft",
+  "keywords": [
+    "environmental",
+    "ICON",
+    "temperature",
+    "illuminance",
+    "Environmental conditions"
+  ],
+  "temporalCoverage": "2026-04-24T10:00:00-05:00/2026-10-23T13:15:00-05:00",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Temperature",
+      "unitText": "°C"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Illuminance",
+      "unitText": "lux"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "ICON_26_26-10-26m.xlsx",
+      "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "contentUrl": "https://ccmi-research-data.g-roff.chatgpt.site/files/ICON_26_26-10-26m.xlsx"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://ccmi-research-data.g-roff.chatgpt.site/data/ICON_26_26-10-26m.csv"
+    }
+  ],
+  "isAccessibleForFree": false,
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "ICON nursery series, Little Cayman — ICON Reef site reference",
+    "description": "Published ICON Reef monitoring-site coordinate, assigned to the ICON nursery series by the data steward on 2026-10-30. Exact nursery-frame and logger positions are unverified.",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 19.6996,
+      "longitude": -80.06058
+    }
+  },
+  "isBasedOn": "https://www.scirp.org/journal/paperinformation?paperid=82210",
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "environmental-conditions",
+      "name": "Environmental conditions",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

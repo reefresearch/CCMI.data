@@ -1,0 +1,52 @@
+{
+  "id": "ccmi-file-802febc63bb0ff81",
+  "parent_id": "ccmi-study-quiet-oceans",
+  "name": "3.Parrotfish_Bayes_regression.R",
+  "title": "3.Parrotfish_Bayes_regression.R",
+  "url": "https://raw.githubusercontent.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/5c5786281289f2fe5829f98531f80d3a45a800ed/3.Parrotfish_Bayes_regression.R",
+  "repository_url": "https://github.com/JackVJohnson/Quiet-Oceans-Grand-Cayman/blob/5c5786281289f2fe5829f98531f80d3a45a800ed/3.Parrotfish_Bayes_regression.R",
+  "provider": "GitHub",
+  "version": "5c5786281289f2fe5829f98531f80d3a45a800ed",
+  "kind": "code",
+  "category": "code",
+  "format": "R",
+  "size_bytes": 8998,
+  "checksum": null,
+  "checksum_type": null,
+  "source_license": null,
+  "paper_doi": "10.1038/s41598-023-49221-y",
+  "dataset_doi": null,
+  "concept_doi": null,
+  "doi_scope": "Dataset DOI belongs to the parent deposit; this file has no separately registered DOI.",
+  "landing": "/?file=ccmi-file-802febc63bb0ff81",
+  "metadata": "file-records/ccmi-file-802febc63bb0ff81.meta.md",
+  "metadata_json": "file-records/ccmi-file-802febc63bb0ff81.json",
+  "metadata_checked": "2026-10-29",
+  "link_status": "Listed in source inventory; full file transfer not tested.",
+  "external": true,
+  "git_blob_sha1": "aa05f877b1b73f94cf5ce5d99d0ae68b5cf2bcaa",
+  "commit": "5c5786281289f2fe5829f98531f80d3a45a800ed",
+  "inventory_source": "https://api.github.com/repos/JackVJohnson/Quiet-Oceans-Grand-Cayman/git/trees/5c5786281289f2fe5829f98531f80d3a45a800ed?recursive=1",
+  "parent_title": "Grand Cayman fish communities during COVID restrictions",
+  "parent_landing": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-quiet-oceans.html",
+  "paper_title": "Insights from the 2-year-long human confinement experiment in Grand Cayman reveal the resilience of coral reef fish communities",
+  "paper_relationship_status": "Linked by the paper data-availability statement or repository README.",
+  "units": null,
+  "data_dictionary": null,
+  "temporal_coverage": null,
+  "scientific_quality_control": "Not independently assessed",
+  "role_basis": "filename, extension and repository context",
+  "subjects": [
+    "biodiversity-communities",
+    "human-pressures-management"
+  ],
+  "subject_labels": [
+    "Biodiversity & communities",
+    "Human pressures & management"
+  ],
+  "subject_basis": "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending.",
+  "subject_vocabulary": "ccmi-subjects:1.0.0",
+  "resource_types": [
+    "code"
+  ]
+}

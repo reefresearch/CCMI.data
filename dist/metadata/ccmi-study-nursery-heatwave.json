@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "10.5281/zenodo.14392687",
+  "name": "Nursery coral genotypes during the 2023 heatwave",
+  "description": "Nursery coral-health and genotype observations, temperature records, NOAA heat-stress inputs and analysis code associated with the 2023 marine heatwave.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-nursery-heatwave.html",
+  "sameAs": "https://zenodo.org/records/14392687",
+  "citation": "https://doi.org/10.3389/fmars.2025.1599155",
+  "version": "record 14392687",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "dhwnoaa.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/dhwnoaa.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "dhwnoaa1.txt",
+      "encodingFormat": "TXT",
+      "contentUrl": "https://zenodo.org/records/14392687/files/dhwnoaa1.txt?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "dhwnoaa2.txt",
+      "encodingFormat": "TXT",
+      "contentUrl": "https://zenodo.org/records/14392687/files/dhwnoaa2.txt?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Icon_10m.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/Icon_10m.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "icon_frame.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/icon_frame.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Icon_SST.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/Icon_SST.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "nursery_health_status_2023 - ALL DATA.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/nursery_health_status_2023%20-%20ALL%20DATA.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "nursery_health_status_2023 - quality control.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/nursery_health_status_2023%20-%20quality%20control.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "nursery_health_status_2023.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/nursery_health_status_2023.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Nurserycode.txt",
+      "encodingFormat": "TXT",
+      "contentUrl": "https://zenodo.org/records/14392687/files/Nurserycode.txt?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "temp_frame.txt",
+      "encodingFormat": "TXT",
+      "contentUrl": "https://zenodo.org/records/14392687/files/temp_frame.txt?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "temp_full.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/14392687/files/temp_full.csv?download=1"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "keywords": [
+    "Environmental conditions",
+    "Coral health & restoration"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "environmental-conditions",
+      "name": "Environmental conditions",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "coral-health-restoration",
+      "name": "Coral health & restoration",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

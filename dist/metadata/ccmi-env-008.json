@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "ccmi-env-008",
+  "name": "MF HOBO Mid — temperature · Jun–Oct 2016",
+  "description": "HOBO temperature observations labelled MF-MID-47: 10,190 timestamped records from 2016-06-21 to 2016-10-05, at a modal 15-minute interval. MF probably refers to Martha's Finyard; the mapped position is a tentative site reference. Mid is a source depth label; depth in metres is unknown.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-env-008.html",
+  "version": "0.1.0-draft",
+  "temporalCoverage": "2016-06-21T11:00:00-05:00/2016-10-05T14:15:00-05:00",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Temperature",
+      "unitText": "°C"
+    }
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Martha's Finyard, Little Cayman — probable MF site reference",
+    "description": "Probable identification: MF = Martha's Finyard. NCBI BioSample SAMN55782138 uses MF in its sample name, explicitly names Martha's Finyard, and reports 19.66487 N, 80.11118 W. These agree with the supplied DoE January 2023 mooring 237 coordinates. This supports an abbreviation match, not confirmation of the 2016 deployment or logger positions.",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 19.664867,
+      "longitude": -80.111183
+    }
+  },
+  "isBasedOn": [
+    "https://doe.ky/resources/public-moorings/",
+    "https://www.ncbi.nlm.nih.gov/biosample/SAMN55782138"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "161005_CCMI_HOBO_MF_Mid October 2016.csv",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://ccmi-research-data.g-roff.chatgpt.site/files/161005_CCMI_HOBO_MF_Mid%20October%202016.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "HOBO_MF_Mid_2016.csv",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://ccmi-research-data.g-roff.chatgpt.site/data/HOBO_MF_Mid_2016.csv"
+    }
+  ],
+  "isAccessibleForFree": false,
+  "keywords": [
+    "Environmental conditions"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "environmental-conditions",
+      "name": "Environmental conditions",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

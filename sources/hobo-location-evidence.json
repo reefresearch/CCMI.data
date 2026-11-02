@@ -1,0 +1,25 @@
+{
+  "checked": "2026-10-30",
+  "candidate_site": {
+    "ID": "237",
+    "Site_Name": "Martha's Finyard",
+    "Depth": "45.0 ft",
+    "Pins": "1",
+    "Northing": "19.664867",
+    "Easting": "-80.111183",
+    "Lat_DMmmm": "19\u00b0 39.892' N",
+    "Long_DMmmm": "80\u00b0 6.671' W",
+    "Island": "Little Cayman",
+    "Aspect": "North",
+    "MPA": "Open Zone"
+  },
+  "abbreviation_evidence": {
+    "url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN55782138",
+    "sample_name": "117-MF-SD-44",
+    "site": "Martha's Finyard",
+    "collection_date": "2023-07",
+    "latitude": 19.66487,
+    "longitude": -80.11118
+  },
+  "interpretation": "Probable identification: MF = Martha's Finyard. NCBI BioSample SAMN55782138 uses MF in its sample name, explicitly names Martha's Finyard, and reports 19.66487 N, 80.11118 W. These agree with the supplied DoE January 2023 mooring 237 coordinates. This supports an abbreviation match, not confirmation of the 2016 deployment or logger positions."
+}

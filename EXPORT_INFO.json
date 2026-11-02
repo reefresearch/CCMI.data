@@ -1,0 +1,15 @@
+{
+  "name": "CCMI.data",
+  "export_date": "2026-11-02",
+  "source_commit": "a6aa57a812ddc3ab25a09fbf2c689052c19df471",
+  "catalog_records": 24,
+  "indexed_files": 1122,
+  "logger_series": 8,
+  "logger_observations": 105679,
+  "original_ICON_uploads": 12,
+  "original_HOBO_uploads": 4,
+  "external_data_mirrored": false,
+  "hosting_authentication_included": false,
+  "source_git_history_included": false,
+  "notes": "Complete static site and local data; external deposits remain linked. Header renamed CCMI.data."
+}

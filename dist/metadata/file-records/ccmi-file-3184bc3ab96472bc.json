@@ -1,0 +1,60 @@
+{
+  "id": "ccmi-file-3184bc3ab96472bc",
+  "parent_id": "ccmi-env-003",
+  "name": "ICON_18m.xlsx",
+  "title": "ICON_18m.xlsx",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/files/ICON_18m.xlsx",
+  "repository_url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-env-003.html",
+  "provider": "CCMI",
+  "version": "0.1.0-draft",
+  "kind": "data",
+  "category": "environmental",
+  "format": "XLSX",
+  "size_bytes": 583988,
+  "checksum": "a5faf206bf2c68cf8a5a2af4acb712477d21929ba11c11ce9d4c8224163eb0e6",
+  "checksum_type": "sha256",
+  "source_license": null,
+  "paper_doi": null,
+  "dataset_doi": null,
+  "concept_doi": null,
+  "doi_scope": "Dataset DOI belongs to the parent deposit; this file has no separately registered DOI.",
+  "landing": "/?file=ccmi-file-3184bc3ab96472bc",
+  "metadata": "file-records/ccmi-file-3184bc3ab96472bc.meta.md",
+  "metadata_json": "file-records/ccmi-file-3184bc3ab96472bc.json",
+  "metadata_checked": "2026-10-29",
+  "link_status": "Listed in source inventory; full file transfer not tested.",
+  "external": false,
+  "coordinates": [
+    19.6996,
+    -80.06058
+  ],
+  "latitude": 19.6996,
+  "longitude": -80.06058,
+  "location": "ICON nursery series, Little Cayman — ICON Reef site reference",
+  "coordinate_basis": "Published ICON Reef monitoring-site coordinate, assigned to the ICON nursery series by the data steward on 2026-10-30. Exact nursery-frame and logger positions are unverified.",
+  "coordinate_source": "Foster & Foster (2018), Demographics and Population Dynamics Project the Future of Hard Coral Assemblages in Little Cayman, Table 1.",
+  "coordinate_source_url": "https://www.scirp.org/journal/paperinformation?paperid=82210",
+  "coordinate_scope": "shared site reference; not an individual deployment position",
+  "coordinate_uncertainty_m": null,
+  "coordinate_datum": "WGS84 assumed for mapping; source datum not stated",
+  "parent_title": "ICON 18 m — temperature & light",
+  "parent_landing": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-env-003.html",
+  "paper_title": null,
+  "paper_relationship_status": null,
+  "units": null,
+  "data_dictionary": null,
+  "temporal_coverage": null,
+  "scientific_quality_control": "Not independently assessed",
+  "role_basis": "filename, extension and repository context",
+  "subjects": [
+    "environmental-conditions"
+  ],
+  "subject_labels": [
+    "Environmental conditions"
+  ],
+  "subject_basis": "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending.",
+  "subject_vocabulary": "ccmi-subjects:1.0.0",
+  "resource_types": [
+    "data"
+  ]
+}

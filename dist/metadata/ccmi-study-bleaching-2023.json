@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "10.5281/zenodo.15057987",
+  "name": "Little Cayman bleaching and mortality, 2023–2024",
+  "description": "Coral bleaching-prevalence and transect data, together with a Little Cayman weekly degree-heating-week series covering 1985–2023. Version DOI 15057987 is retained separately from concept DOI 15057986.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-bleaching-2023.html",
+  "sameAs": "https://zenodo.org/records/15057987",
+  "citation": "https://doi.org/10.1371/journal.pone.0322636",
+  "version": "record 15057987",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "bleaching_prevelance.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/15057987/files/bleaching_prevelance.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "coral_transect.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/15057987/files/coral_transect.csv?download=1"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Little_Cayman_weekly_DHW_1985_2023.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://zenodo.org/records/15057987/files/Little_Cayman_weekly_DHW_1985_2023.csv?download=1"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "keywords": [
+    "Environmental conditions",
+    "Coral health & restoration"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "environmental-conditions",
+      "name": "Environmental conditions",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "coral-health-restoration",
+      "name": "Coral health & restoration",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ccmi-file-9cf21c4db251c7d7",
+  "parent_id": "ccmi-study-nursery-heatwave",
+  "name": "dhwnoaa.csv",
+  "title": "dhwnoaa.csv",
+  "url": "https://zenodo.org/records/14392687/files/dhwnoaa.csv?download=1",
+  "repository_url": "https://zenodo.org/records/14392687",
+  "provider": "Zenodo",
+  "version": "record 14392687",
+  "kind": "data",
+  "category": "environmental",
+  "format": "CSV",
+  "size_bytes": null,
+  "checksum": "54bcad8f25e3d218abf704936451e610",
+  "checksum_type": "md5",
+  "source_license": "Creative Commons Attribution 4.0 International",
+  "paper_doi": "10.3389/fmars.2025.1599155",
+  "dataset_doi": "10.5281/zenodo.14392687",
+  "concept_doi": "10.5281/zenodo.14392686",
+  "doi_scope": "Dataset DOI belongs to the parent deposit; this file has no separately registered DOI.",
+  "landing": "/?file=ccmi-file-9cf21c4db251c7d7",
+  "metadata": "file-records/ccmi-file-9cf21c4db251c7d7.meta.md",
+  "metadata_json": "file-records/ccmi-file-9cf21c4db251c7d7.json",
+  "metadata_checked": "2026-10-29",
+  "link_status": "Listed in source inventory; full file transfer not tested.",
+  "external": true,
+  "repository_checksum_display": "54bcad8f25e3d218abf704936451e610",
+  "inventory_source": "https://zenodo.org/records/14392687",
+  "checksum_note": null,
+  "parent_title": "Nursery coral genotypes during the 2023 heatwave",
+  "parent_landing": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-nursery-heatwave.html",
+  "paper_title": "Extirpation of Acropora cervicornis genotypes from a coral nursery during the 2023 marine heatwave undermines conservation efforts",
+  "paper_relationship_status": "Linked by the paper data-availability statement or repository README.",
+  "units": null,
+  "data_dictionary": null,
+  "temporal_coverage": null,
+  "scientific_quality_control": "Not independently assessed",
+  "role_basis": "filename, extension and repository context",
+  "subjects": [
+    "environmental-conditions"
+  ],
+  "subject_labels": [
+    "Environmental conditions"
+  ],
+  "subject_basis": "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending.",
+  "subject_vocabulary": "ccmi-subjects:1.0.0",
+  "resource_types": [
+    "data"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "identifier": "10.25338/B8F643",
+  "name": "Genotype mixtures and nursery disease resistance",
+  "description": "Colony-level white-band disease observations from the CCMI nursery, including health state, genotype and placement on nursery frames, with the repository README.",
+  "url": "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-genotype-disease.html",
+  "sameAs": "https://doi.org/10.25338/B8F643",
+  "citation": "https://doi.org/10.1038/s41598-022-23457-6",
+  "version": "2022-11-17 repository version",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "disease_deepnursery_apr2022_longformat_dryad.csv",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://datadryad.org/downloads/file_stream/1934971"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "README.rtf",
+      "encodingFormat": "RTF",
+      "contentUrl": "https://datadryad.org/downloads/file_stream/1934969"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+  "keywords": [
+    "Coral health & restoration"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "coral-health-restoration",
+      "name": "Coral health & restoration",
+      "inDefinedTermSet": "ccmi-subjects:1.0.0"
+    }
+  ]
+}

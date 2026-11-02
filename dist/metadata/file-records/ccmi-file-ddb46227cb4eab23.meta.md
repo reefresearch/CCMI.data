@@ -1,0 +1,58 @@
+---
+id: "ccmi-file-ddb46227cb4eab23"
+parent_id: "ccmi-study-nursery-microbiomes"
+name: "SRR8047980_2.fastq.gz"
+title: "SRR8047980_2.fastq.gz"
+url: "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR804/000/SRR8047980/SRR8047980_2.fastq.gz"
+repository_url: "https://www.ncbi.nlm.nih.gov/sra/SRR8047980"
+provider: "ENA"
+version: "SRR8047980"
+kind: "sequence"
+category: "ecological"
+format: "FASTQ.GZ"
+size_bytes: 1568310
+checksum: "99f5ba81e4f01ed3d3b8781a70b657a9"
+checksum_type: "md5"
+source_license: null
+paper_doi: "10.7717/peerj.9635"
+dataset_doi: null
+concept_doi: null
+doi_scope: "Dataset DOI belongs to the parent deposit; this file has no separately registered DOI."
+landing: "/?file=ccmi-file-ddb46227cb4eab23"
+metadata: "file-records/ccmi-file-ddb46227cb4eab23.meta.md"
+metadata_json: "file-records/ccmi-file-ddb46227cb4eab23.json"
+metadata_checked: "2026-10-29"
+link_status: "Listed in source inventory; full file transfer not tested."
+external: true
+run_accession: "SRR8047980"
+sample_accession: "SAMN10224000"
+project_accession: "PRJNA495377"
+inventory_source: "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA495377&result=read_run&fields=run_accession,study_accession,sample_accession,scientific_name,fastq_ftp,fastq_md5,fastq_bytes&format=json"
+source_note: "FASTQ distribution supplied by ENA; NCBI SRA run and BioProject identifiers retained."
+parent_title: "Microbiomes of nursery-reared Acropora cervicornis"
+parent_landing: "https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-nursery-microbiomes.html"
+paper_title: "Spatial distribution of microbial communities among colonies and genotypes in nursery-reared Acropora cervicornis"
+paper_relationship_status: "Linked by the paper data-availability statement or repository README."
+units: null
+data_dictionary: null
+temporal_coverage: null
+scientific_quality_control: "Not independently assessed"
+role_basis: "filename, extension and repository context"
+subjects: ["microbiology-molecular"]
+subject_labels: ["Microbiology & molecular data"]
+subject_basis: "Filename and repository context; code, documentation and archives inherit study subjects. Steward review pending."
+subject_vocabulary: "ccmi-subjects:1.0.0"
+resource_types: ["data"]
+---
+
+# SRR8047980_2.fastq.gz
+
+File of [Microbiomes of nursery-reared Acropora cervicornis](https://ccmi-research-data.g-roff.chatgpt.site/records/ccmi-study-nursery-microbiomes.html).
+
+## Access and citation
+
+[Open the file](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR804/000/SRR8047980/SRR8047980_2.fastq.gz) · [Source record](https://www.ncbi.nlm.nih.gov/sra/SRR8047980). Cite the paper and parent dataset separately. A dataset DOI in this record identifies the containing deposit, not this individual file.
+
+## FAIR readiness
+
+The file has a stable local catalog ID, parent-study relation, source link, source version and reported integrity fields where available. Git blob SHA-1 values identify Git objects, not raw-file SHA-256 checksums. Units, variable definitions, sample subset and scientific quality control must be checked against the original README, paper and repository metadata. Null fields remain unverified. No external data bytes are mirrored.
