@@ -35,6 +35,7 @@ for f in files:
                 break
         else:raise AssertionError(f['url'])
 assert not (ROOT/'.openai').exists()
-assert not (ROOT/'.git').exists()
+# A source checkout normally contains .git; only published assets must exclude it.
+assert not (dist/'.git').exists()
 assert 'CCMI.data' in (dist/'app.js').read_text()
 print(f'PASS: {len(catalog)} records; {len(files):,} files; {len(series)} logger series; original hashes and metadata verified.')
