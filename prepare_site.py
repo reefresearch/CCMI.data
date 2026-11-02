@@ -6,6 +6,14 @@ import argparse, json, re, shutil, zipfile
 ROOT=Path(__file__).resolve().parent
 LEGACY_ORIGIN='https://ccmi-research-data.g-roff.chatgpt.site'
 
+def rebase_local_paths(text, base_path, source):
+    """Prefix actual site paths, without treating regex terminators as URLs."""
+    folders='|'.join(re.escape(p.name) for p in source.iterdir() if p.is_dir())
+    files='|'.join(re.escape(p.name) for p in source.iterdir() if p.is_file())
+    local_path=rf'''(["'`])/(?=(?:\?|["'`]|(?:{folders})/|(?:{files})(?:[?"'`])))'''
+    text=re.sub(local_path,lambda m:m[1]+base_path+'/',text)
+    return re.sub(r'url\(/(?!/)',lambda m:'url('+base_path+'/',text)
+
 def prepare(output='site', origin='', base_path=''):
     target=(ROOT/output).resolve()
     if target != ROOT/'site':
@@ -26,8 +34,7 @@ def prepare(output='site', origin='', base_path=''):
         if not path.is_file() or path.suffix.lower() not in ['.html','.js','.json','.css','.md','.svg']:continue
         text=path.read_text()
         if base_path:
-            text=re.sub(r'''(["'`])/(?!/)(?=[A-Za-z0-9_?"'`])''',lambda m:m[1]+base_path+'/',text)
-            text=re.sub(r'url\(/(?!/)',lambda m:'url('+base_path+'/',text)
+            text=rebase_local_paths(text,base_path,ROOT/'dist')
         text=text.replace(LEGACY_ORIGIN,origin+base_path)
         path.write_text(text)
     with zipfile.ZipFile(target/'metadata/ccmi-metadata.zip','w',zipfile.ZIP_DEFLATED) as archive:

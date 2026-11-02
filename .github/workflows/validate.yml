@@ -11,7 +11,9 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests
       - run: python build_catalog.py
-      - run: python prepare_site.py
+      - name: Prepare a project-path deployment
+        run: python prepare_site.py --origin https://example.github.io --base-path /CCMI.data
       - run: python validate_export.py
       - run: node --check site/app.js && node --check site/linked-ui.js && node --check site/timeseries.js && node --check site/ts-core.js
